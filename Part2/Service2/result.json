@@ -1,0 +1,4300 @@
+{
+  "result" : [ {
+    "name" : "BHXCJJJK",
+    "arrivalTime" : 26,
+    "waitingTime" : 19,
+    "anchorageBeginning" : 45,
+    "anchorageDuration" : 513
+  }, {
+    "name" : "ANBW",
+    "arrivalTime" : 145,
+    "waitingTime" : 19,
+    "anchorageBeginning" : 164,
+    "anchorageDuration" : 397
+  }, {
+    "name" : "VTBZV",
+    "arrivalTime" : 160,
+    "waitingTime" : 20,
+    "anchorageBeginning" : 180,
+    "anchorageDuration" : 851
+  }, {
+    "name" : "DWW",
+    "arrivalTime" : 778,
+    "waitingTime" : 126,
+    "anchorageBeginning" : 904,
+    "anchorageDuration" : 127
+  }, {
+    "name" : "OML",
+    "arrivalTime" : 283,
+    "waitingTime" : 20,
+    "anchorageBeginning" : 303,
+    "anchorageDuration" : 820
+  }, {
+    "name" : "ROIC",
+    "arrivalTime" : 160,
+    "waitingTime" : 20,
+    "anchorageBeginning" : 180,
+    "anchorageDuration" : 1017
+  }, {
+    "name" : "VEEGYI",
+    "arrivalTime" : 805,
+    "waitingTime" : 126,
+    "anchorageBeginning" : 931,
+    "anchorageDuration" : 499
+  }, {
+    "name" : "TVVXDYT",
+    "arrivalTime" : 304,
+    "waitingTime" : 20,
+    "anchorageBeginning" : 324,
+    "anchorageDuration" : 1223
+  }, {
+    "name" : "MQVZTHQ",
+    "arrivalTime" : 833,
+    "waitingTime" : 126,
+    "anchorageBeginning" : 959,
+    "anchorageDuration" : 611
+  }, {
+    "name" : "QCUGA",
+    "arrivalTime" : 903,
+    "waitingTime" : 127,
+    "anchorageBeginning" : 1030,
+    "anchorageDuration" : 559
+  }, {
+    "name" : "SSGY",
+    "arrivalTime" : 432,
+    "waitingTime" : 126,
+    "anchorageBeginning" : 558,
+    "anchorageDuration" : 1031
+  }, {
+    "name" : "ABUF",
+    "arrivalTime" : 1148,
+    "waitingTime" : 127,
+    "anchorageBeginning" : 1275,
+    "anchorageDuration" : 321
+  }, {
+    "name" : "SLLCQ",
+    "arrivalTime" : 770,
+    "waitingTime" : 126,
+    "anchorageBeginning" : 896,
+    "anchorageDuration" : 703
+  }, {
+    "name" : "IJFJK",
+    "arrivalTime" : 920,
+    "waitingTime" : 127,
+    "anchorageBeginning" : 1047,
+    "anchorageDuration" : 597
+  }, {
+    "name" : "HNS",
+    "arrivalTime" : 1249,
+    "waitingTime" : 127,
+    "anchorageBeginning" : 1376,
+    "anchorageDuration" : 286
+  }, {
+    "name" : "XJHATQNZ",
+    "arrivalTime" : 1164,
+    "waitingTime" : 127,
+    "anchorageBeginning" : 1291,
+    "anchorageDuration" : 436
+  }, {
+    "name" : "MKHONQTCF",
+    "arrivalTime" : 901,
+    "waitingTime" : 126,
+    "anchorageBeginning" : 1027,
+    "anchorageDuration" : 853
+  }, {
+    "name" : "PQCWG",
+    "arrivalTime" : 1053,
+    "waitingTime" : 127,
+    "anchorageBeginning" : 1180,
+    "anchorageDuration" : 780
+  }, {
+    "name" : "AAQGFC",
+    "arrivalTime" : 2410,
+    "waitingTime" : 127,
+    "anchorageBeginning" : 2537,
+    "anchorageDuration" : 1608
+  }, {
+    "name" : "ELYNSWKZ",
+    "arrivalTime" : 3464,
+    "waitingTime" : 127,
+    "anchorageBeginning" : 3591,
+    "anchorageDuration" : 555
+  }, {
+    "name" : "XZXPNL",
+    "arrivalTime" : 3498,
+    "waitingTime" : 127,
+    "anchorageBeginning" : 3625,
+    "anchorageDuration" : 529
+  }, {
+    "name" : "ABLP",
+    "arrivalTime" : 1992,
+    "waitingTime" : 127,
+    "anchorageBeginning" : 2119,
+    "anchorageDuration" : 2455
+  }, {
+    "name" : "BKDSQ",
+    "arrivalTime" : 4333,
+    "waitingTime" : 128,
+    "anchorageBeginning" : 4461,
+    "anchorageDuration" : 113
+  }, {
+    "name" : "PLRAWZIR",
+    "arrivalTime" : 3171,
+    "waitingTime" : 127,
+    "anchorageBeginning" : 3298,
+    "anchorageDuration" : 1276
+  }, {
+    "name" : "NIGF",
+    "arrivalTime" : 4017,
+    "waitingTime" : 128,
+    "anchorageBeginning" : 4145,
+    "anchorageDuration" : 430
+  }, {
+    "name" : "XTRL",
+    "arrivalTime" : 3735,
+    "waitingTime" : 128,
+    "anchorageBeginning" : 3863,
+    "anchorageDuration" : 785
+  }, {
+    "name" : "LTRIMZS",
+    "arrivalTime" : 4006,
+    "waitingTime" : 128,
+    "anchorageBeginning" : 4134,
+    "anchorageDuration" : 1004
+  }, {
+    "name" : "LCGUNT",
+    "arrivalTime" : 4582,
+    "waitingTime" : 128,
+    "anchorageBeginning" : 4710,
+    "anchorageDuration" : 448
+  }, {
+    "name" : "XQIU",
+    "arrivalTime" : 4808,
+    "waitingTime" : 128,
+    "anchorageBeginning" : 4936,
+    "anchorageDuration" : 619
+  }, {
+    "name" : "SEZSFYDCI",
+    "arrivalTime" : 4895,
+    "waitingTime" : 128,
+    "anchorageBeginning" : 5023,
+    "anchorageDuration" : 686
+  }, {
+    "name" : "LFOWH",
+    "arrivalTime" : 4850,
+    "waitingTime" : 128,
+    "anchorageBeginning" : 4978,
+    "anchorageDuration" : 732
+  }, {
+    "name" : "GPCOZ",
+    "arrivalTime" : 5538,
+    "waitingTime" : 129,
+    "anchorageBeginning" : 5667,
+    "anchorageDuration" : 68
+  }, {
+    "name" : "OYO",
+    "arrivalTime" : 4969,
+    "waitingTime" : 128,
+    "anchorageBeginning" : 5097,
+    "anchorageDuration" : 894
+  }, {
+    "name" : "FZJWTP",
+    "arrivalTime" : 5923,
+    "waitingTime" : 129,
+    "anchorageBeginning" : 6052,
+    "anchorageDuration" : 402
+  }, {
+    "name" : "JLC",
+    "arrivalTime" : 5780,
+    "waitingTime" : 129,
+    "anchorageBeginning" : 5909,
+    "anchorageDuration" : 566
+  }, {
+    "name" : "RTXE",
+    "arrivalTime" : 5597,
+    "waitingTime" : 129,
+    "anchorageBeginning" : 5726,
+    "anchorageDuration" : 749
+  }, {
+    "name" : "AMS",
+    "arrivalTime" : 5814,
+    "waitingTime" : 129,
+    "anchorageBeginning" : 5943,
+    "anchorageDuration" : 1520
+  }, {
+    "name" : "SHK",
+    "arrivalTime" : 6665,
+    "waitingTime" : 129,
+    "anchorageBeginning" : 6794,
+    "anchorageDuration" : 705
+  }, {
+    "name" : "VSBOV",
+    "arrivalTime" : 5890,
+    "waitingTime" : 129,
+    "anchorageBeginning" : 6019,
+    "anchorageDuration" : 1480
+  }, {
+    "name" : "XVMVOJQN",
+    "arrivalTime" : 7108,
+    "waitingTime" : 129,
+    "anchorageBeginning" : 7237,
+    "anchorageDuration" : 454
+  }, {
+    "name" : "CCOIFFNS",
+    "arrivalTime" : 7518,
+    "waitingTime" : 129,
+    "anchorageBeginning" : 7647,
+    "anchorageDuration" : 155
+  }, {
+    "name" : "HUBFUOPMF",
+    "arrivalTime" : 7334,
+    "waitingTime" : 129,
+    "anchorageBeginning" : 7463,
+    "anchorageDuration" : 1067
+  }, {
+    "name" : "YEVMRLFJ",
+    "arrivalTime" : 7608,
+    "waitingTime" : 129,
+    "anchorageBeginning" : 7737,
+    "anchorageDuration" : 1349
+  }, {
+    "name" : "CIP",
+    "arrivalTime" : 8808,
+    "waitingTime" : 177,
+    "anchorageBeginning" : 8985,
+    "anchorageDuration" : 258
+  }, {
+    "name" : "XBQEJSC",
+    "arrivalTime" : 7650,
+    "waitingTime" : 130,
+    "anchorageBeginning" : 7780,
+    "anchorageDuration" : 1463
+  }, {
+    "name" : "UDR",
+    "arrivalTime" : 8111,
+    "waitingTime" : 130,
+    "anchorageBeginning" : 8241,
+    "anchorageDuration" : 1002
+  }, {
+    "name" : "DFD",
+    "arrivalTime" : 9396,
+    "waitingTime" : 177,
+    "anchorageBeginning" : 9573,
+    "anchorageDuration" : 533
+  }, {
+    "name" : "ZJIU",
+    "arrivalTime" : 9145,
+    "waitingTime" : 177,
+    "anchorageBeginning" : 9322,
+    "anchorageDuration" : 876
+  }, {
+    "name" : "AAMQA",
+    "arrivalTime" : 9578,
+    "waitingTime" : 178,
+    "anchorageBeginning" : 9756,
+    "anchorageDuration" : 442
+  }, {
+    "name" : "XGFEIII",
+    "arrivalTime" : 9428,
+    "waitingTime" : 178,
+    "anchorageBeginning" : 9606,
+    "anchorageDuration" : 592
+  }, {
+    "name" : "PSGNCQS",
+    "arrivalTime" : 9168,
+    "waitingTime" : 177,
+    "anchorageBeginning" : 9345,
+    "anchorageDuration" : 1096
+  }, {
+    "name" : "BDHPGQIZ",
+    "arrivalTime" : 10046,
+    "waitingTime" : 178,
+    "anchorageBeginning" : 10224,
+    "anchorageDuration" : 1256
+  }, {
+    "name" : "KWEFDZWN",
+    "arrivalTime" : 10424,
+    "waitingTime" : 178,
+    "anchorageBeginning" : 10602,
+    "anchorageDuration" : 878
+  }, {
+    "name" : "VVLXI",
+    "arrivalTime" : 10728,
+    "waitingTime" : 178,
+    "anchorageBeginning" : 10906,
+    "anchorageDuration" : 1165
+  }, {
+    "name" : "NAGEAY",
+    "arrivalTime" : 11771,
+    "waitingTime" : 178,
+    "anchorageBeginning" : 11949,
+    "anchorageDuration" : 1011
+  }, {
+    "name" : "UWI",
+    "arrivalTime" : 11872,
+    "waitingTime" : 178,
+    "anchorageBeginning" : 12050,
+    "anchorageDuration" : 984
+  }, {
+    "name" : "WDY",
+    "arrivalTime" : 12553,
+    "waitingTime" : 179,
+    "anchorageBeginning" : 12732,
+    "anchorageDuration" : 828
+  }, {
+    "name" : "LTI",
+    "arrivalTime" : 13166,
+    "waitingTime" : 179,
+    "anchorageBeginning" : 13345,
+    "anchorageDuration" : 215
+  }, {
+    "name" : "LGDZBW",
+    "arrivalTime" : 12610,
+    "waitingTime" : 179,
+    "anchorageBeginning" : 12789,
+    "anchorageDuration" : 813
+  }, {
+    "name" : "KVC",
+    "arrivalTime" : 12405,
+    "waitingTime" : 179,
+    "anchorageBeginning" : 12584,
+    "anchorageDuration" : 1018
+  }, {
+    "name" : "XHIQ",
+    "arrivalTime" : 13662,
+    "waitingTime" : 179,
+    "anchorageBeginning" : 13841,
+    "anchorageDuration" : 335
+  }, {
+    "name" : "KVLDZB",
+    "arrivalTime" : 12110,
+    "waitingTime" : 178,
+    "anchorageBeginning" : 12288,
+    "anchorageDuration" : 1928
+  }, {
+    "name" : "BEPO",
+    "arrivalTime" : 13313,
+    "waitingTime" : 179,
+    "anchorageBeginning" : 13492,
+    "anchorageDuration" : 725
+  }, {
+    "name" : "NMEAB",
+    "arrivalTime" : 12920,
+    "waitingTime" : 179,
+    "anchorageBeginning" : 13099,
+    "anchorageDuration" : 1118
+  }, {
+    "name" : "QPGXUA",
+    "arrivalTime" : 12182,
+    "waitingTime" : 178,
+    "anchorageBeginning" : 12360,
+    "anchorageDuration" : 1857
+  }, {
+    "name" : "DFX",
+    "arrivalTime" : 12510,
+    "waitingTime" : 179,
+    "anchorageBeginning" : 12689,
+    "anchorageDuration" : 1528
+  }, {
+    "name" : "KJVZ",
+    "arrivalTime" : 13719,
+    "waitingTime" : 179,
+    "anchorageBeginning" : 13898,
+    "anchorageDuration" : 637
+  }, {
+    "name" : "GYVOZVZR",
+    "arrivalTime" : 14722,
+    "waitingTime" : 180,
+    "anchorageBeginning" : 14902,
+    "anchorageDuration" : 608
+  }, {
+    "name" : "NRZQAP",
+    "arrivalTime" : 14502,
+    "waitingTime" : 180,
+    "anchorageBeginning" : 14682,
+    "anchorageDuration" : 828
+  }, {
+    "name" : "ZRR",
+    "arrivalTime" : 14432,
+    "waitingTime" : 180,
+    "anchorageBeginning" : 14612,
+    "anchorageDuration" : 935
+  }, {
+    "name" : "UGOBMBKF",
+    "arrivalTime" : 14963,
+    "waitingTime" : 180,
+    "anchorageBeginning" : 15143,
+    "anchorageDuration" : 521
+  }, {
+    "name" : "WPQRZKP",
+    "arrivalTime" : 14310,
+    "waitingTime" : 180,
+    "anchorageBeginning" : 14490,
+    "anchorageDuration" : 1174
+  }, {
+    "name" : "MSVBCX",
+    "arrivalTime" : 14117,
+    "waitingTime" : 180,
+    "anchorageBeginning" : 14297,
+    "anchorageDuration" : 1367
+  }, {
+    "name" : "BKLHU",
+    "arrivalTime" : 14219,
+    "waitingTime" : 180,
+    "anchorageBeginning" : 14399,
+    "anchorageDuration" : 1265
+  }, {
+    "name" : "CACUSC",
+    "arrivalTime" : 15256,
+    "waitingTime" : 181,
+    "anchorageBeginning" : 15437,
+    "anchorageDuration" : 452
+  }, {
+    "name" : "IKT",
+    "arrivalTime" : 15055,
+    "waitingTime" : 181,
+    "anchorageBeginning" : 15236,
+    "anchorageDuration" : 665
+  }, {
+    "name" : "UQPJU",
+    "arrivalTime" : 15041,
+    "waitingTime" : 181,
+    "anchorageBeginning" : 15222,
+    "anchorageDuration" : 844
+  }, {
+    "name" : "JGUNVD",
+    "arrivalTime" : 14436,
+    "waitingTime" : 180,
+    "anchorageBeginning" : 14616,
+    "anchorageDuration" : 1450
+  }, {
+    "name" : "YNLZ",
+    "arrivalTime" : 14838,
+    "waitingTime" : 180,
+    "anchorageBeginning" : 15018,
+    "anchorageDuration" : 1048
+  }, {
+    "name" : "QTXYWI",
+    "arrivalTime" : 15093,
+    "waitingTime" : 181,
+    "anchorageBeginning" : 15274,
+    "anchorageDuration" : 792
+  }, {
+    "name" : "CYIVU",
+    "arrivalTime" : 16401,
+    "waitingTime" : 181,
+    "anchorageBeginning" : 16582,
+    "anchorageDuration" : 655
+  }, {
+    "name" : "ROFXGSFNF",
+    "arrivalTime" : 16581,
+    "waitingTime" : 181,
+    "anchorageBeginning" : 16762,
+    "anchorageDuration" : 514
+  }, {
+    "name" : "HZMSSNY",
+    "arrivalTime" : 16061,
+    "waitingTime" : 181,
+    "anchorageBeginning" : 16242,
+    "anchorageDuration" : 1200
+  }, {
+    "name" : "XBTJA",
+    "arrivalTime" : 16174,
+    "waitingTime" : 181,
+    "anchorageBeginning" : 16355,
+    "anchorageDuration" : 1180
+  }, {
+    "name" : "JITXJ",
+    "arrivalTime" : 16989,
+    "waitingTime" : 182,
+    "anchorageBeginning" : 17171,
+    "anchorageDuration" : 752
+  }, {
+    "name" : "JRNIMZH",
+    "arrivalTime" : 17110,
+    "waitingTime" : 182,
+    "anchorageBeginning" : 17292,
+    "anchorageDuration" : 885
+  }, {
+    "name" : "ZRSYBDEUM",
+    "arrivalTime" : 17056,
+    "waitingTime" : 182,
+    "anchorageBeginning" : 17238,
+    "anchorageDuration" : 939
+  }, {
+    "name" : "YIEJQ",
+    "arrivalTime" : 17490,
+    "waitingTime" : 182,
+    "anchorageBeginning" : 17672,
+    "anchorageDuration" : 1448
+  }, {
+    "name" : "TLPV",
+    "arrivalTime" : 17654,
+    "waitingTime" : 182,
+    "anchorageBeginning" : 17836,
+    "anchorageDuration" : 1561
+  }, {
+    "name" : "JDLQBTR",
+    "arrivalTime" : 18866,
+    "waitingTime" : 183,
+    "anchorageBeginning" : 19049,
+    "anchorageDuration" : 348
+  }, {
+    "name" : "RRQZNHM",
+    "arrivalTime" : 17880,
+    "waitingTime" : 182,
+    "anchorageBeginning" : 18062,
+    "anchorageDuration" : 1335
+  }, {
+    "name" : "UVWRIPT",
+    "arrivalTime" : 18892,
+    "waitingTime" : 183,
+    "anchorageBeginning" : 19075,
+    "anchorageDuration" : 412
+  }, {
+    "name" : "VPFIINFOB",
+    "arrivalTime" : 18034,
+    "waitingTime" : 182,
+    "anchorageBeginning" : 18216,
+    "anchorageDuration" : 1447
+  }, {
+    "name" : "IIWBMJSOR",
+    "arrivalTime" : 19356,
+    "waitingTime" : 183,
+    "anchorageBeginning" : 19539,
+    "anchorageDuration" : 213
+  }, {
+    "name" : "ALQHINIX",
+    "arrivalTime" : 18238,
+    "waitingTime" : 182,
+    "anchorageBeginning" : 18420,
+    "anchorageDuration" : 1344
+  }, {
+    "name" : "WGCENJ",
+    "arrivalTime" : 18694,
+    "waitingTime" : 183,
+    "anchorageBeginning" : 18877,
+    "anchorageDuration" : 943
+  }, {
+    "name" : "OIKLXFGVK",
+    "arrivalTime" : 18850,
+    "waitingTime" : 183,
+    "anchorageBeginning" : 19033,
+    "anchorageDuration" : 897
+  }, {
+    "name" : "IWPEML",
+    "arrivalTime" : 18520,
+    "waitingTime" : 182,
+    "anchorageBeginning" : 18702,
+    "anchorageDuration" : 2095
+  }, {
+    "name" : "HFKD",
+    "arrivalTime" : 20559,
+    "waitingTime" : 184,
+    "anchorageBeginning" : 20743,
+    "anchorageDuration" : 154
+  }, {
+    "name" : "MBWFYWN",
+    "arrivalTime" : 20341,
+    "waitingTime" : 183,
+    "anchorageBeginning" : 20524,
+    "anchorageDuration" : 493
+  }, {
+    "name" : "ATP",
+    "arrivalTime" : 20630,
+    "waitingTime" : 184,
+    "anchorageBeginning" : 20814,
+    "anchorageDuration" : 203
+  }, {
+    "name" : "UFWKYCX",
+    "arrivalTime" : 20274,
+    "waitingTime" : 183,
+    "anchorageBeginning" : 20457,
+    "anchorageDuration" : 611
+  }, {
+    "name" : "LQU",
+    "arrivalTime" : 19841,
+    "waitingTime" : 183,
+    "anchorageBeginning" : 20024,
+    "anchorageDuration" : 1144
+  }, {
+    "name" : "QCCIBWZCS",
+    "arrivalTime" : 20040,
+    "waitingTime" : 183,
+    "anchorageBeginning" : 20223,
+    "anchorageDuration" : 945
+  }, {
+    "name" : "DRNDQJPCO",
+    "arrivalTime" : 20735,
+    "waitingTime" : 184,
+    "anchorageBeginning" : 20919,
+    "anchorageDuration" : 331
+  }, {
+    "name" : "ZDCKGPM",
+    "arrivalTime" : 21018,
+    "waitingTime" : 184,
+    "anchorageBeginning" : 21202,
+    "anchorageDuration" : 407
+  }, {
+    "name" : "FSLV",
+    "arrivalTime" : 21431,
+    "waitingTime" : 184,
+    "anchorageBeginning" : 21615,
+    "anchorageDuration" : 712
+  }, {
+    "name" : "NYG",
+    "arrivalTime" : 22210,
+    "waitingTime" : 184,
+    "anchorageBeginning" : 22394,
+    "anchorageDuration" : 766
+  }, {
+    "name" : "NNR",
+    "arrivalTime" : 22180,
+    "waitingTime" : 184,
+    "anchorageBeginning" : 22364,
+    "anchorageDuration" : 1682
+  }, {
+    "name" : "YXZQSBFE",
+    "arrivalTime" : 22838,
+    "waitingTime" : 185,
+    "anchorageBeginning" : 23023,
+    "anchorageDuration" : 1023
+  }, {
+    "name" : "TBUXGEW",
+    "arrivalTime" : 23641,
+    "waitingTime" : 185,
+    "anchorageBeginning" : 23826,
+    "anchorageDuration" : 567
+  }, {
+    "name" : "LTMDONW",
+    "arrivalTime" : 23322,
+    "waitingTime" : 185,
+    "anchorageBeginning" : 23507,
+    "anchorageDuration" : 886
+  }, {
+    "name" : "BFXHD",
+    "arrivalTime" : 22629,
+    "waitingTime" : 184,
+    "anchorageBeginning" : 22813,
+    "anchorageDuration" : 1580
+  }, {
+    "name" : "XYYUYFK",
+    "arrivalTime" : 23367,
+    "waitingTime" : 185,
+    "anchorageBeginning" : 23552,
+    "anchorageDuration" : 841
+  }, {
+    "name" : "INWY",
+    "arrivalTime" : 22600,
+    "waitingTime" : 184,
+    "anchorageBeginning" : 22784,
+    "anchorageDuration" : 1609
+  }, {
+    "name" : "YNUZWDH",
+    "arrivalTime" : 23935,
+    "waitingTime" : 185,
+    "anchorageBeginning" : 24120,
+    "anchorageDuration" : 803
+  }, {
+    "name" : "GUP",
+    "arrivalTime" : 23981,
+    "waitingTime" : 185,
+    "anchorageBeginning" : 24166,
+    "anchorageDuration" : 773
+  }, {
+    "name" : "NHEDAQJF",
+    "arrivalTime" : 24230,
+    "waitingTime" : 185,
+    "anchorageBeginning" : 24415,
+    "anchorageDuration" : 524
+  }, {
+    "name" : "PXGLE",
+    "arrivalTime" : 24549,
+    "waitingTime" : 185,
+    "anchorageBeginning" : 24734,
+    "anchorageDuration" : 287
+  }, {
+    "name" : "HBHVQ",
+    "arrivalTime" : 24552,
+    "waitingTime" : 185,
+    "anchorageBeginning" : 24737,
+    "anchorageDuration" : 575
+  }, {
+    "name" : "UWVANE",
+    "arrivalTime" : 24097,
+    "waitingTime" : 185,
+    "anchorageBeginning" : 24282,
+    "anchorageDuration" : 2117
+  }, {
+    "name" : "HGOHLCGN",
+    "arrivalTime" : 24743,
+    "waitingTime" : 186,
+    "anchorageBeginning" : 24929,
+    "anchorageDuration" : 1470
+  }, {
+    "name" : "VQMFUCPE",
+    "arrivalTime" : 25385,
+    "waitingTime" : 186,
+    "anchorageBeginning" : 25571,
+    "anchorageDuration" : 828
+  }, {
+    "name" : "LWW",
+    "arrivalTime" : 26119,
+    "waitingTime" : 186,
+    "anchorageBeginning" : 26305,
+    "anchorageDuration" : 460
+  }, {
+    "name" : "OTMLHGEJ",
+    "arrivalTime" : 25265,
+    "waitingTime" : 186,
+    "anchorageBeginning" : 25451,
+    "anchorageDuration" : 1379
+  }, {
+    "name" : "PRVC",
+    "arrivalTime" : 26093,
+    "waitingTime" : 186,
+    "anchorageBeginning" : 26279,
+    "anchorageDuration" : 551
+  }, {
+    "name" : "ONETJZARN",
+    "arrivalTime" : 26607,
+    "waitingTime" : 186,
+    "anchorageBeginning" : 26793,
+    "anchorageDuration" : 1348
+  }, {
+    "name" : "SWDQFWHT",
+    "arrivalTime" : 26940,
+    "waitingTime" : 186,
+    "anchorageBeginning" : 27126,
+    "anchorageDuration" : 1095
+  }, {
+    "name" : "KJJGAQSLK",
+    "arrivalTime" : 27433,
+    "waitingTime" : 187,
+    "anchorageBeginning" : 27620,
+    "anchorageDuration" : 601
+  }, {
+    "name" : "SGNE",
+    "arrivalTime" : 28011,
+    "waitingTime" : 187,
+    "anchorageBeginning" : 28198,
+    "anchorageDuration" : 586
+  }, {
+    "name" : "XZKH",
+    "arrivalTime" : 28206,
+    "waitingTime" : 187,
+    "anchorageBeginning" : 28393,
+    "anchorageDuration" : 395
+  }, {
+    "name" : "UCSYO",
+    "arrivalTime" : 27656,
+    "waitingTime" : 187,
+    "anchorageBeginning" : 27843,
+    "anchorageDuration" : 945
+  }, {
+    "name" : "OMW",
+    "arrivalTime" : 27683,
+    "waitingTime" : 187,
+    "anchorageBeginning" : 27870,
+    "anchorageDuration" : 919
+  }, {
+    "name" : "MOMJKZHCY",
+    "arrivalTime" : 28092,
+    "waitingTime" : 187,
+    "anchorageBeginning" : 28279,
+    "anchorageDuration" : 690
+  }, {
+    "name" : "MRGEHZBQ",
+    "arrivalTime" : 28271,
+    "waitingTime" : 187,
+    "anchorageBeginning" : 28458,
+    "anchorageDuration" : 569
+  }, {
+    "name" : "VOIVOH",
+    "arrivalTime" : 27326,
+    "waitingTime" : 186,
+    "anchorageBeginning" : 27512,
+    "anchorageDuration" : 1550
+  }, {
+    "name" : "ICGQXZX",
+    "arrivalTime" : 27758,
+    "waitingTime" : 187,
+    "anchorageBeginning" : 27945,
+    "anchorageDuration" : 1118
+  }, {
+    "name" : "CDCOV",
+    "arrivalTime" : 29402,
+    "waitingTime" : 188,
+    "anchorageBeginning" : 29590,
+    "anchorageDuration" : 1354
+  }, {
+    "name" : "IMMEFUG",
+    "arrivalTime" : 30001,
+    "waitingTime" : 188,
+    "anchorageBeginning" : 30189,
+    "anchorageDuration" : 755
+  }, {
+    "name" : "PROTRD",
+    "arrivalTime" : 30478,
+    "waitingTime" : 188,
+    "anchorageBeginning" : 30666,
+    "anchorageDuration" : 391
+  }, {
+    "name" : "QSQYDFUPT",
+    "arrivalTime" : 29488,
+    "waitingTime" : 188,
+    "anchorageBeginning" : 29676,
+    "anchorageDuration" : 1381
+  }, {
+    "name" : "GJOXV",
+    "arrivalTime" : 29785,
+    "waitingTime" : 188,
+    "anchorageBeginning" : 29973,
+    "anchorageDuration" : 1085
+  }, {
+    "name" : "KAWUDXT",
+    "arrivalTime" : 29871,
+    "waitingTime" : 188,
+    "anchorageBeginning" : 30059,
+    "anchorageDuration" : 1065
+  }, {
+    "name" : "JHEOENALD",
+    "arrivalTime" : 30886,
+    "waitingTime" : 188,
+    "anchorageBeginning" : 31074,
+    "anchorageDuration" : 334
+  }, {
+    "name" : "BHKALWZ",
+    "arrivalTime" : 30858,
+    "waitingTime" : 188,
+    "anchorageBeginning" : 31046,
+    "anchorageDuration" : 570
+  }, {
+    "name" : "PCXRAAFO",
+    "arrivalTime" : 31708,
+    "waitingTime" : 189,
+    "anchorageBeginning" : 31897,
+    "anchorageDuration" : 663
+  }, {
+    "name" : "WJT",
+    "arrivalTime" : 31518,
+    "waitingTime" : 189,
+    "anchorageBeginning" : 31707,
+    "anchorageDuration" : 853
+  }, {
+    "name" : "NYCOMSY",
+    "arrivalTime" : 31673,
+    "waitingTime" : 189,
+    "anchorageBeginning" : 31862,
+    "anchorageDuration" : 698
+  }, {
+    "name" : "FDRSIFU",
+    "arrivalTime" : 31225,
+    "waitingTime" : 188,
+    "anchorageBeginning" : 31413,
+    "anchorageDuration" : 1230
+  }, {
+    "name" : "GUQFU",
+    "arrivalTime" : 32108,
+    "waitingTime" : 189,
+    "anchorageBeginning" : 32297,
+    "anchorageDuration" : 495
+  }, {
+    "name" : "NMTTJ",
+    "arrivalTime" : 32523,
+    "waitingTime" : 189,
+    "anchorageBeginning" : 32712,
+    "anchorageDuration" : 906
+  }, {
+    "name" : "SPBM",
+    "arrivalTime" : 32672,
+    "waitingTime" : 189,
+    "anchorageBeginning" : 32861,
+    "anchorageDuration" : 757
+  }, {
+    "name" : "UOPWV",
+    "arrivalTime" : 32673,
+    "waitingTime" : 190,
+    "anchorageBeginning" : 32863,
+    "anchorageDuration" : 997
+  }, {
+    "name" : "YRTXDU",
+    "arrivalTime" : 33557,
+    "waitingTime" : 190,
+    "anchorageBeginning" : 33747,
+    "anchorageDuration" : 253
+  }, {
+    "name" : "HXSKN",
+    "arrivalTime" : 32682,
+    "waitingTime" : 190,
+    "anchorageBeginning" : 32872,
+    "anchorageDuration" : 1348
+  }, {
+    "name" : "FBYRNIHUA",
+    "arrivalTime" : 33571,
+    "waitingTime" : 190,
+    "anchorageBeginning" : 33761,
+    "anchorageDuration" : 738
+  }, {
+    "name" : "BUZXVZHHH",
+    "arrivalTime" : 33548,
+    "waitingTime" : 190,
+    "anchorageBeginning" : 33738,
+    "anchorageDuration" : 862
+  }, {
+    "name" : "FZGVTFY",
+    "arrivalTime" : 34818,
+    "waitingTime" : 190,
+    "anchorageBeginning" : 35008,
+    "anchorageDuration" : 752
+  }, {
+    "name" : "RVX",
+    "arrivalTime" : 34867,
+    "waitingTime" : 190,
+    "anchorageBeginning" : 35057,
+    "anchorageDuration" : 939
+  }, {
+    "name" : "PZRAOG",
+    "arrivalTime" : 35030,
+    "waitingTime" : 190,
+    "anchorageBeginning" : 35220,
+    "anchorageDuration" : 924
+  }, {
+    "name" : "CRDZZK",
+    "arrivalTime" : 34463,
+    "waitingTime" : 190,
+    "anchorageBeginning" : 34653,
+    "anchorageDuration" : 1491
+  }, {
+    "name" : "VSNLIISSV",
+    "arrivalTime" : 35500,
+    "waitingTime" : 191,
+    "anchorageBeginning" : 35691,
+    "anchorageDuration" : 453
+  }, {
+    "name" : "YDFRGPD",
+    "arrivalTime" : 35654,
+    "waitingTime" : 191,
+    "anchorageBeginning" : 35845,
+    "anchorageDuration" : 374
+  }, {
+    "name" : "UVQZQH",
+    "arrivalTime" : 35597,
+    "waitingTime" : 191,
+    "anchorageBeginning" : 35788,
+    "anchorageDuration" : 446
+  }, {
+    "name" : "TFEZHGJ",
+    "arrivalTime" : 35333,
+    "waitingTime" : 191,
+    "anchorageBeginning" : 35524,
+    "anchorageDuration" : 710
+  }, {
+    "name" : "EMUSQX",
+    "arrivalTime" : 34463,
+    "waitingTime" : 190,
+    "anchorageBeginning" : 34653,
+    "anchorageDuration" : 1581
+  }, {
+    "name" : "YCSPTFZE",
+    "arrivalTime" : 35317,
+    "waitingTime" : 191,
+    "anchorageBeginning" : 35508,
+    "anchorageDuration" : 795
+  }, {
+    "name" : "PQQ",
+    "arrivalTime" : 35544,
+    "waitingTime" : 191,
+    "anchorageBeginning" : 35735,
+    "anchorageDuration" : 568
+  }, {
+    "name" : "DBCZUH",
+    "arrivalTime" : 35175,
+    "waitingTime" : 191,
+    "anchorageBeginning" : 35366,
+    "anchorageDuration" : 1013
+  }, {
+    "name" : "WJIDDAHNV",
+    "arrivalTime" : 35363,
+    "waitingTime" : 191,
+    "anchorageBeginning" : 35554,
+    "anchorageDuration" : 862
+  }, {
+    "name" : "KRYRVF",
+    "arrivalTime" : 36172,
+    "waitingTime" : 191,
+    "anchorageBeginning" : 36363,
+    "anchorageDuration" : 366
+  }, {
+    "name" : "FWVAIG",
+    "arrivalTime" : 36448,
+    "waitingTime" : 191,
+    "anchorageBeginning" : 36639,
+    "anchorageDuration" : 253
+  }, {
+    "name" : "JFJGOV",
+    "arrivalTime" : 36075,
+    "waitingTime" : 191,
+    "anchorageBeginning" : 36266,
+    "anchorageDuration" : 1591
+  }, {
+    "name" : "ALSZWGFS",
+    "arrivalTime" : 37427,
+    "waitingTime" : 192,
+    "anchorageBeginning" : 37619,
+    "anchorageDuration" : 459
+  }, {
+    "name" : "NQFMQGBTV",
+    "arrivalTime" : 37088,
+    "waitingTime" : 192,
+    "anchorageBeginning" : 37280,
+    "anchorageDuration" : 1567
+  }, {
+    "name" : "TERBKKLN",
+    "arrivalTime" : 38613,
+    "waitingTime" : 192,
+    "anchorageBeginning" : 38805,
+    "anchorageDuration" : 665
+  }, {
+    "name" : "HJE",
+    "arrivalTime" : 38334,
+    "waitingTime" : 192,
+    "anchorageBeginning" : 38526,
+    "anchorageDuration" : 944
+  }, {
+    "name" : "WFRDN",
+    "arrivalTime" : 38751,
+    "waitingTime" : 192,
+    "anchorageBeginning" : 38943,
+    "anchorageDuration" : 527
+  }, {
+    "name" : "MPX",
+    "arrivalTime" : 38573,
+    "waitingTime" : 192,
+    "anchorageBeginning" : 38765,
+    "anchorageDuration" : 907
+  }, {
+    "name" : "QHVZTXYTY",
+    "arrivalTime" : 38545,
+    "waitingTime" : 192,
+    "anchorageBeginning" : 38737,
+    "anchorageDuration" : 1185
+  }, {
+    "name" : "AENZF",
+    "arrivalTime" : 38053,
+    "waitingTime" : 192,
+    "anchorageBeginning" : 38245,
+    "anchorageDuration" : 1677
+  }, {
+    "name" : "KTUULBJB",
+    "arrivalTime" : 38818,
+    "waitingTime" : 192,
+    "anchorageBeginning" : 39010,
+    "anchorageDuration" : 1513
+  }, {
+    "name" : "OTTIJ",
+    "arrivalTime" : 40450,
+    "waitingTime" : 193,
+    "anchorageBeginning" : 40643,
+    "anchorageDuration" : 240
+  }, {
+    "name" : "WIAPWFJ",
+    "arrivalTime" : 39799,
+    "waitingTime" : 193,
+    "anchorageBeginning" : 39992,
+    "anchorageDuration" : 1329
+  }, {
+    "name" : "YIPFJJYIC",
+    "arrivalTime" : 42095,
+    "waitingTime" : 193,
+    "anchorageBeginning" : 42288,
+    "anchorageDuration" : 687
+  }, {
+    "name" : "UOSIF",
+    "arrivalTime" : 42324,
+    "waitingTime" : 193,
+    "anchorageBeginning" : 42517,
+    "anchorageDuration" : 1091
+  }, {
+    "name" : "NRUF",
+    "arrivalTime" : 42084,
+    "waitingTime" : 193,
+    "anchorageBeginning" : 42277,
+    "anchorageDuration" : 1417
+  }, {
+    "name" : "ENNEYTR",
+    "arrivalTime" : 42932,
+    "waitingTime" : 193,
+    "anchorageBeginning" : 43125,
+    "anchorageDuration" : 1583
+  } ],
+  "averageQueueWaiting" : 167.97340425531914,
+  "maxAnchorageDelay" : 1422,
+  "averageAnchorageDelay" : 739.6702127659574,
+  "averageQueueLength" : 0.0,
+  "fines" : [ 20200, 16000, 16300 ]
+}{
+  "result" : [ {
+    "name" : "TVVXDYT",
+    "arrivalTime" : 304,
+    "waitingTime" : 1,
+    "anchorageBeginning" : 305,
+    "anchorageDuration" : 355
+  }, {
+    "name" : "SEZSFYDCI",
+    "arrivalTime" : 575,
+    "waitingTime" : 3,
+    "anchorageBeginning" : 578,
+    "anchorageDuration" : 246
+  }, {
+    "name" : "JYGUBV",
+    "arrivalTime" : 206,
+    "waitingTime" : 1,
+    "anchorageBeginning" : 207,
+    "anchorageDuration" : 634
+  }, {
+    "name" : "KZZHIM",
+    "arrivalTime" : 594,
+    "waitingTime" : 3,
+    "anchorageBeginning" : 597,
+    "anchorageDuration" : 246
+  }, {
+    "name" : "JEN",
+    "arrivalTime" : 555,
+    "waitingTime" : 3,
+    "anchorageBeginning" : 558,
+    "anchorageDuration" : 285
+  }, {
+    "name" : "CCOIFFNS",
+    "arrivalTime" : 318,
+    "waitingTime" : 1,
+    "anchorageBeginning" : 319,
+    "anchorageDuration" : 524
+  }, {
+    "name" : "YOJSI",
+    "arrivalTime" : 446,
+    "waitingTime" : 2,
+    "anchorageBeginning" : 448,
+    "anchorageDuration" : 395
+  }, {
+    "name" : "TTR",
+    "arrivalTime" : 412,
+    "waitingTime" : 2,
+    "anchorageBeginning" : 414,
+    "anchorageDuration" : 429
+  }, {
+    "name" : "LFOWH",
+    "arrivalTime" : 530,
+    "waitingTime" : 3,
+    "anchorageBeginning" : 533,
+    "anchorageDuration" : 310
+  }, {
+    "name" : "PGWVKRIQ",
+    "arrivalTime" : 210,
+    "waitingTime" : 1,
+    "anchorageBeginning" : 211,
+    "anchorageDuration" : 632
+  }, {
+    "name" : "ROIC",
+    "arrivalTime" : 160,
+    "waitingTime" : 0,
+    "anchorageBeginning" : 160,
+    "anchorageDuration" : 723
+  }, {
+    "name" : "AMS",
+    "arrivalTime" : 54,
+    "waitingTime" : 0,
+    "anchorageBeginning" : 54,
+    "anchorageDuration" : 872
+  }, {
+    "name" : "ZWYIPQQDV",
+    "arrivalTime" : 483,
+    "waitingTime" : 2,
+    "anchorageBeginning" : 485,
+    "anchorageDuration" : 467
+  }, {
+    "name" : "XGIKKXCRU",
+    "arrivalTime" : 525,
+    "waitingTime" : 2,
+    "anchorageBeginning" : 527,
+    "anchorageDuration" : 452
+  }, {
+    "name" : "HNKZBJOZG",
+    "arrivalTime" : 579,
+    "waitingTime" : 3,
+    "anchorageBeginning" : 582,
+    "anchorageDuration" : 447
+  }, {
+    "name" : "QTCAFJ",
+    "arrivalTime" : 465,
+    "waitingTime" : 2,
+    "anchorageBeginning" : 467,
+    "anchorageDuration" : 611
+  }, {
+    "name" : "MITM",
+    "arrivalTime" : 126,
+    "waitingTime" : 0,
+    "anchorageBeginning" : 126,
+    "anchorageDuration" : 1019
+  }, {
+    "name" : "SSGY",
+    "arrivalTime" : 432,
+    "waitingTime" : 2,
+    "anchorageBeginning" : 434,
+    "anchorageDuration" : 711
+  }, {
+    "name" : "CIP",
+    "arrivalTime" : 168,
+    "waitingTime" : 1,
+    "anchorageBeginning" : 169,
+    "anchorageDuration" : 976
+  }, {
+    "name" : "MCKWNHZ",
+    "arrivalTime" : 817,
+    "waitingTime" : 4,
+    "anchorageBeginning" : 821,
+    "anchorageDuration" : 342
+  }, {
+    "name" : "TPQW",
+    "arrivalTime" : 916,
+    "waitingTime" : 5,
+    "anchorageBeginning" : 921,
+    "anchorageDuration" : 251
+  }, {
+    "name" : "JTQY",
+    "arrivalTime" : 906,
+    "waitingTime" : 4,
+    "anchorageBeginning" : 910,
+    "anchorageDuration" : 273
+  }, {
+    "name" : "FWLID",
+    "arrivalTime" : 555,
+    "waitingTime" : 3,
+    "anchorageBeginning" : 558,
+    "anchorageDuration" : 631
+  }, {
+    "name" : "DYGJYATYI",
+    "arrivalTime" : 647,
+    "waitingTime" : 3,
+    "anchorageBeginning" : 650,
+    "anchorageDuration" : 556
+  }, {
+    "name" : "MFSKNUWDE",
+    "arrivalTime" : 1069,
+    "waitingTime" : 5,
+    "anchorageBeginning" : 1074,
+    "anchorageDuration" : 152
+  }, {
+    "name" : "YUYED",
+    "arrivalTime" : 900,
+    "waitingTime" : 4,
+    "anchorageBeginning" : 904,
+    "anchorageDuration" : 323
+  }, {
+    "name" : "NIGF",
+    "arrivalTime" : 1137,
+    "waitingTime" : 5,
+    "anchorageBeginning" : 1142,
+    "anchorageDuration" : 86
+  }, {
+    "name" : "EACODMXYG",
+    "arrivalTime" : 275,
+    "waitingTime" : 1,
+    "anchorageBeginning" : 276,
+    "anchorageDuration" : 952
+  }, {
+    "name" : "ZPUIHFC",
+    "arrivalTime" : 9,
+    "waitingTime" : 0,
+    "anchorageBeginning" : 9,
+    "anchorageDuration" : 1228
+  }, {
+    "name" : "AAMQA",
+    "arrivalTime" : 938,
+    "waitingTime" : 5,
+    "anchorageBeginning" : 943,
+    "anchorageDuration" : 295
+  }, {
+    "name" : "GURGZE",
+    "arrivalTime" : 351,
+    "waitingTime" : 1,
+    "anchorageBeginning" : 352,
+    "anchorageDuration" : 937
+  }, {
+    "name" : "SUF",
+    "arrivalTime" : 858,
+    "waitingTime" : 4,
+    "anchorageBeginning" : 862,
+    "anchorageDuration" : 466
+  }, {
+    "name" : "PLRAWZIR",
+    "arrivalTime" : 291,
+    "waitingTime" : 1,
+    "anchorageBeginning" : 292,
+    "anchorageDuration" : 1039
+  }, {
+    "name" : "MQVZTHQ",
+    "arrivalTime" : 833,
+    "waitingTime" : 4,
+    "anchorageBeginning" : 837,
+    "anchorageDuration" : 495
+  }, {
+    "name" : "ABUF",
+    "arrivalTime" : 1148,
+    "waitingTime" : 5,
+    "anchorageBeginning" : 1153,
+    "anchorageDuration" : 183
+  }, {
+    "name" : "QCUGA",
+    "arrivalTime" : 903,
+    "waitingTime" : 4,
+    "anchorageBeginning" : 907,
+    "anchorageDuration" : 429
+  }, {
+    "name" : "KVLDZB",
+    "arrivalTime" : 590,
+    "waitingTime" : 3,
+    "anchorageBeginning" : 593,
+    "anchorageDuration" : 827
+  }, {
+    "name" : "BECDE",
+    "arrivalTime" : 1182,
+    "waitingTime" : 5,
+    "anchorageBeginning" : 1187,
+    "anchorageDuration" : 285
+  }, {
+    "name" : "ZAVKAHVK",
+    "arrivalTime" : 525,
+    "waitingTime" : 2,
+    "anchorageBeginning" : 527,
+    "anchorageDuration" : 946
+  }, {
+    "name" : "DXTIFDDT",
+    "arrivalTime" : 783,
+    "waitingTime" : 4,
+    "anchorageBeginning" : 787,
+    "anchorageDuration" : 691
+  }, {
+    "name" : "HNS",
+    "arrivalTime" : 1249,
+    "waitingTime" : 6,
+    "anchorageBeginning" : 1255,
+    "anchorageDuration" : 228
+  }, {
+    "name" : "YYAUARUQK",
+    "arrivalTime" : 478,
+    "waitingTime" : 2,
+    "anchorageBeginning" : 480,
+    "anchorageDuration" : 1013
+  }, {
+    "name" : "SFTCGOV",
+    "arrivalTime" : 1047,
+    "waitingTime" : 5,
+    "anchorageBeginning" : 1052,
+    "anchorageDuration" : 476
+  }, {
+    "name" : "NIYBJ",
+    "arrivalTime" : 745,
+    "waitingTime" : 4,
+    "anchorageBeginning" : 749,
+    "anchorageDuration" : 796
+  }, {
+    "name" : "LTVSNSZDA",
+    "arrivalTime" : 1168,
+    "waitingTime" : 5,
+    "anchorageBeginning" : 1173,
+    "anchorageDuration" : 446
+  }, {
+    "name" : "VSBOV",
+    "arrivalTime" : 1570,
+    "waitingTime" : 6,
+    "anchorageBeginning" : 1576,
+    "anchorageDuration" : 51
+  }, {
+    "name" : "DWW",
+    "arrivalTime" : 778,
+    "waitingTime" : 4,
+    "anchorageBeginning" : 782,
+    "anchorageDuration" : 916
+  }, {
+    "name" : "RVW",
+    "arrivalTime" : 1114,
+    "waitingTime" : 5,
+    "anchorageBeginning" : 1119,
+    "anchorageDuration" : 655
+  }, {
+    "name" : "XJHATQNZ",
+    "arrivalTime" : 1164,
+    "waitingTime" : 5,
+    "anchorageBeginning" : 1169,
+    "anchorageDuration" : 631
+  }, {
+    "name" : "ENKH",
+    "arrivalTime" : 605,
+    "waitingTime" : 3,
+    "anchorageBeginning" : 608,
+    "anchorageDuration" : 1192
+  }, {
+    "name" : "ZBYXT",
+    "arrivalTime" : 433,
+    "waitingTime" : 2,
+    "anchorageBeginning" : 435,
+    "anchorageDuration" : 1365
+  }, {
+    "name" : "IHGKMQJ",
+    "arrivalTime" : 220,
+    "waitingTime" : 1,
+    "anchorageBeginning" : 221,
+    "anchorageDuration" : 1579
+  }, {
+    "name" : "FZJWTP",
+    "arrivalTime" : 163,
+    "waitingTime" : 1,
+    "anchorageBeginning" : 164,
+    "anchorageDuration" : 1636
+  }, {
+    "name" : "BJVIXBO",
+    "arrivalTime" : 1440,
+    "waitingTime" : 6,
+    "anchorageBeginning" : 1446,
+    "anchorageDuration" : 354
+  }, {
+    "name" : "MIXK",
+    "arrivalTime" : 1256,
+    "waitingTime" : 6,
+    "anchorageBeginning" : 1262,
+    "anchorageDuration" : 538
+  }, {
+    "name" : "DWEMH",
+    "arrivalTime" : 579,
+    "waitingTime" : 3,
+    "anchorageBeginning" : 582,
+    "anchorageDuration" : 1218
+  }, {
+    "name" : "NBDLIFPO",
+    "arrivalTime" : 864,
+    "waitingTime" : 4,
+    "anchorageBeginning" : 868,
+    "anchorageDuration" : 989
+  }, {
+    "name" : "AJHFCJC",
+    "arrivalTime" : 1335,
+    "waitingTime" : 6,
+    "anchorageBeginning" : 1341,
+    "anchorageDuration" : 697
+  }, {
+    "name" : "WJJTSRILV",
+    "arrivalTime" : 1192,
+    "waitingTime" : 5,
+    "anchorageBeginning" : 1197,
+    "anchorageDuration" : 846
+  }, {
+    "name" : "ZJDEXVP",
+    "arrivalTime" : 960,
+    "waitingTime" : 5,
+    "anchorageBeginning" : 965,
+    "anchorageDuration" : 1116
+  }, {
+    "name" : "HUBFUOPMF",
+    "arrivalTime" : 1574,
+    "waitingTime" : 6,
+    "anchorageBeginning" : 1580,
+    "anchorageDuration" : 632
+  }, {
+    "name" : "AJVISOD",
+    "arrivalTime" : 2115,
+    "waitingTime" : 6,
+    "anchorageBeginning" : 2121,
+    "anchorageDuration" : 327
+  }, {
+    "name" : "GITTA",
+    "arrivalTime" : 2233,
+    "waitingTime" : 6,
+    "anchorageBeginning" : 2239,
+    "anchorageDuration" : 452
+  }, {
+    "name" : "LTRIMZS",
+    "arrivalTime" : 2566,
+    "waitingTime" : 7,
+    "anchorageBeginning" : 2573,
+    "anchorageDuration" : 328
+  }, {
+    "name" : "OGI",
+    "arrivalTime" : 2548,
+    "waitingTime" : 7,
+    "anchorageBeginning" : 2555,
+    "anchorageDuration" : 346
+  }, {
+    "name" : "UDR",
+    "arrivalTime" : 2351,
+    "waitingTime" : 7,
+    "anchorageBeginning" : 2358,
+    "anchorageDuration" : 831
+  }, {
+    "name" : "OVT",
+    "arrivalTime" : 2859,
+    "waitingTime" : 7,
+    "anchorageBeginning" : 2866,
+    "anchorageDuration" : 696
+  }, {
+    "name" : "YEVMRLFJ",
+    "arrivalTime" : 3288,
+    "waitingTime" : 7,
+    "anchorageBeginning" : 3295,
+    "anchorageDuration" : 267
+  }, {
+    "name" : "XZXPNL",
+    "arrivalTime" : 2058,
+    "waitingTime" : 6,
+    "anchorageBeginning" : 2064,
+    "anchorageDuration" : 1555
+  }, {
+    "name" : "OKKA",
+    "arrivalTime" : 2502,
+    "waitingTime" : 7,
+    "anchorageBeginning" : 2509,
+    "anchorageDuration" : 1110
+  }, {
+    "name" : "LGDZBW",
+    "arrivalTime" : 2530,
+    "waitingTime" : 7,
+    "anchorageBeginning" : 2537,
+    "anchorageDuration" : 1083
+  }, {
+    "name" : "MJNJEGWY",
+    "arrivalTime" : 3771,
+    "waitingTime" : 8,
+    "anchorageBeginning" : 3779,
+    "anchorageDuration" : 411
+  }, {
+    "name" : "IBZFN",
+    "arrivalTime" : 3320,
+    "waitingTime" : 7,
+    "anchorageBeginning" : 3327,
+    "anchorageDuration" : 863
+  }, {
+    "name" : "XGFEIII",
+    "arrivalTime" : 3668,
+    "waitingTime" : 8,
+    "anchorageBeginning" : 3676,
+    "anchorageDuration" : 667
+  }, {
+    "name" : "NHOOPEJ",
+    "arrivalTime" : 4233,
+    "waitingTime" : 8,
+    "anchorageBeginning" : 4241,
+    "anchorageDuration" : 605
+  }, {
+    "name" : "SDZQ",
+    "arrivalTime" : 3685,
+    "waitingTime" : 8,
+    "anchorageBeginning" : 3693,
+    "anchorageDuration" : 1396
+  }, {
+    "name" : "AAQGFC",
+    "arrivalTime" : 3850,
+    "waitingTime" : 8,
+    "anchorageBeginning" : 3858,
+    "anchorageDuration" : 1231
+  }, {
+    "name" : "ANBW",
+    "arrivalTime" : 4465,
+    "waitingTime" : 8,
+    "anchorageBeginning" : 4473,
+    "anchorageDuration" : 733
+  }, {
+    "name" : "LCGUNT",
+    "arrivalTime" : 4582,
+    "waitingTime" : 8,
+    "anchorageBeginning" : 4590,
+    "anchorageDuration" : 616
+  }, {
+    "name" : "BHXCJJJK",
+    "arrivalTime" : 4346,
+    "waitingTime" : 8,
+    "anchorageBeginning" : 4354,
+    "anchorageDuration" : 852
+  }, {
+    "name" : "QTXYWI",
+    "arrivalTime" : 5013,
+    "waitingTime" : 9,
+    "anchorageBeginning" : 5022,
+    "anchorageDuration" : 193
+  }, {
+    "name" : "DFD",
+    "arrivalTime" : 5076,
+    "waitingTime" : 9,
+    "anchorageBeginning" : 5085,
+    "anchorageDuration" : 130
+  }, {
+    "name" : "SLLCQ",
+    "arrivalTime" : 5090,
+    "waitingTime" : 9,
+    "anchorageBeginning" : 5099,
+    "anchorageDuration" : 689
+  }, {
+    "name" : "AWAFVJ",
+    "arrivalTime" : 5420,
+    "waitingTime" : 9,
+    "anchorageBeginning" : 5429,
+    "anchorageDuration" : 767
+  }, {
+    "name" : "LTRQTPED",
+    "arrivalTime" : 5858,
+    "waitingTime" : 10,
+    "anchorageBeginning" : 5868,
+    "anchorageDuration" : 645
+  }, {
+    "name" : "VVLXI",
+    "arrivalTime" : 6408,
+    "waitingTime" : 10,
+    "anchorageBeginning" : 6418,
+    "anchorageDuration" : 171
+  }, {
+    "name" : "QMKQPN",
+    "arrivalTime" : 5662,
+    "waitingTime" : 9,
+    "anchorageBeginning" : 5671,
+    "anchorageDuration" : 920
+  }, {
+    "name" : "RTXE",
+    "arrivalTime" : 5597,
+    "waitingTime" : 9,
+    "anchorageBeginning" : 5606,
+    "anchorageDuration" : 985
+  }, {
+    "name" : "RRQZNHM",
+    "arrivalTime" : 6360,
+    "waitingTime" : 10,
+    "anchorageBeginning" : 6370,
+    "anchorageDuration" : 296
+  }, {
+    "name" : "PSGNCQS",
+    "arrivalTime" : 6288,
+    "waitingTime" : 10,
+    "anchorageBeginning" : 6298,
+    "anchorageDuration" : 376
+  }, {
+    "name" : "FWI",
+    "arrivalTime" : 5690,
+    "waitingTime" : 9,
+    "anchorageBeginning" : 5699,
+    "anchorageDuration" : 1063
+  }, {
+    "name" : "DVKPLTV",
+    "arrivalTime" : 5727,
+    "waitingTime" : 9,
+    "anchorageBeginning" : 5736,
+    "anchorageDuration" : 1026
+  }, {
+    "name" : "OYO",
+    "arrivalTime" : 6409,
+    "waitingTime" : 10,
+    "anchorageBeginning" : 6419,
+    "anchorageDuration" : 343
+  }, {
+    "name" : "QCXHXNXYJ",
+    "arrivalTime" : 6651,
+    "waitingTime" : 11,
+    "anchorageBeginning" : 6662,
+    "anchorageDuration" : 198
+  }, {
+    "name" : "QRWEVBAFT",
+    "arrivalTime" : 6176,
+    "waitingTime" : 10,
+    "anchorageBeginning" : 6186,
+    "anchorageDuration" : 835
+  }, {
+    "name" : "XBTJA",
+    "arrivalTime" : 6094,
+    "waitingTime" : 10,
+    "anchorageBeginning" : 6104,
+    "anchorageDuration" : 966
+  }, {
+    "name" : "IAQMC",
+    "arrivalTime" : 7005,
+    "waitingTime" : 11,
+    "anchorageBeginning" : 7016,
+    "anchorageDuration" : 206
+  }, {
+    "name" : "MKHONQTCF",
+    "arrivalTime" : 6661,
+    "waitingTime" : 11,
+    "anchorageBeginning" : 6672,
+    "anchorageDuration" : 617
+  }, {
+    "name" : "WPQRZKP",
+    "arrivalTime" : 7110,
+    "waitingTime" : 11,
+    "anchorageBeginning" : 7121,
+    "anchorageDuration" : 699
+  }, {
+    "name" : "OEY",
+    "arrivalTime" : 7389,
+    "waitingTime" : 11,
+    "anchorageBeginning" : 7400,
+    "anchorageDuration" : 539
+  }, {
+    "name" : "JWJJHEUCB",
+    "arrivalTime" : 7017,
+    "waitingTime" : 11,
+    "anchorageBeginning" : 7028,
+    "anchorageDuration" : 911
+  }, {
+    "name" : "LTI",
+    "arrivalTime" : 7406,
+    "waitingTime" : 11,
+    "anchorageBeginning" : 7417,
+    "anchorageDuration" : 522
+  }, {
+    "name" : "OIKLXFGVK",
+    "arrivalTime" : 5890,
+    "waitingTime" : 10,
+    "anchorageBeginning" : 5900,
+    "anchorageDuration" : 2039
+  }, {
+    "name" : "LOCHVDRTP",
+    "arrivalTime" : 6905,
+    "waitingTime" : 11,
+    "anchorageBeginning" : 6916,
+    "anchorageDuration" : 1023
+  }, {
+    "name" : "XBQEJSC",
+    "arrivalTime" : 7650,
+    "waitingTime" : 12,
+    "anchorageBeginning" : 7662,
+    "anchorageDuration" : 508
+  }, {
+    "name" : "BEPO",
+    "arrivalTime" : 7553,
+    "waitingTime" : 12,
+    "anchorageBeginning" : 7565,
+    "anchorageDuration" : 829
+  }, {
+    "name" : "QPGXUA",
+    "arrivalTime" : 7862,
+    "waitingTime" : 12,
+    "anchorageBeginning" : 7874,
+    "anchorageDuration" : 853
+  }, {
+    "name" : "CRAUISY",
+    "arrivalTime" : 8216,
+    "waitingTime" : 12,
+    "anchorageBeginning" : 8228,
+    "anchorageDuration" : 500
+  }, {
+    "name" : "KDLUED",
+    "arrivalTime" : 7782,
+    "waitingTime" : 12,
+    "anchorageBeginning" : 7794,
+    "anchorageDuration" : 1112
+  }, {
+    "name" : "ZRSYBDEUM",
+    "arrivalTime" : 8416,
+    "waitingTime" : 12,
+    "anchorageBeginning" : 8428,
+    "anchorageDuration" : 493
+  }, {
+    "name" : "BKLHU",
+    "arrivalTime" : 8459,
+    "waitingTime" : 13,
+    "anchorageBeginning" : 8472,
+    "anchorageDuration" : 673
+  }, {
+    "name" : "JITXJ",
+    "arrivalTime" : 8349,
+    "waitingTime" : 12,
+    "anchorageBeginning" : 8361,
+    "anchorageDuration" : 800
+  }, {
+    "name" : "JLC",
+    "arrivalTime" : 8660,
+    "waitingTime" : 13,
+    "anchorageBeginning" : 8673,
+    "anchorageDuration" : 552
+  }, {
+    "name" : "KWEFDZWN",
+    "arrivalTime" : 8984,
+    "waitingTime" : 13,
+    "anchorageBeginning" : 8997,
+    "anchorageDuration" : 356
+  }, {
+    "name" : "VTBZV",
+    "arrivalTime" : 8800,
+    "waitingTime" : 13,
+    "anchorageBeginning" : 8813,
+    "anchorageDuration" : 826
+  }, {
+    "name" : "NKPJOFJRZ",
+    "arrivalTime" : 8880,
+    "waitingTime" : 13,
+    "anchorageBeginning" : 8893,
+    "anchorageDuration" : 746
+  }, {
+    "name" : "XQIU",
+    "arrivalTime" : 9128,
+    "waitingTime" : 13,
+    "anchorageBeginning" : 9141,
+    "anchorageDuration" : 614
+  }, {
+    "name" : "IKT",
+    "arrivalTime" : 9295,
+    "waitingTime" : 13,
+    "anchorageBeginning" : 9308,
+    "anchorageDuration" : 617
+  }, {
+    "name" : "JKVQL",
+    "arrivalTime" : 9404,
+    "waitingTime" : 14,
+    "anchorageBeginning" : 9418,
+    "anchorageDuration" : 539
+  }, {
+    "name" : "ARZTPAMUC",
+    "arrivalTime" : 9261,
+    "waitingTime" : 13,
+    "anchorageBeginning" : 9274,
+    "anchorageDuration" : 685
+  }, {
+    "name" : "GPCOZ",
+    "arrivalTime" : 9858,
+    "waitingTime" : 14,
+    "anchorageBeginning" : 9872,
+    "anchorageDuration" : 89
+  }, {
+    "name" : "AAQQJKQ",
+    "arrivalTime" : 9479,
+    "waitingTime" : 14,
+    "anchorageBeginning" : 9493,
+    "anchorageDuration" : 481
+  }, {
+    "name" : "PQCWG",
+    "arrivalTime" : 9693,
+    "waitingTime" : 14,
+    "anchorageBeginning" : 9707,
+    "anchorageDuration" : 679
+  }, {
+    "name" : "FXCXDNPBI",
+    "arrivalTime" : 10207,
+    "waitingTime" : 14,
+    "anchorageBeginning" : 10221,
+    "anchorageDuration" : 523
+  }, {
+    "name" : "ESJZADVSW",
+    "arrivalTime" : 10011,
+    "waitingTime" : 14,
+    "anchorageBeginning" : 10025,
+    "anchorageDuration" : 836
+  }, {
+    "name" : "AECZUY",
+    "arrivalTime" : 9484,
+    "waitingTime" : 14,
+    "anchorageBeginning" : 9498,
+    "anchorageDuration" : 1776
+  }, {
+    "name" : "XHIQ",
+    "arrivalTime" : 10782,
+    "waitingTime" : 15,
+    "anchorageBeginning" : 10797,
+    "anchorageDuration" : 477
+  }, {
+    "name" : "UQPJU",
+    "arrivalTime" : 10721,
+    "waitingTime" : 15,
+    "anchorageBeginning" : 10736,
+    "anchorageDuration" : 538
+  }, {
+    "name" : "NFA",
+    "arrivalTime" : 10907,
+    "waitingTime" : 15,
+    "anchorageBeginning" : 10922,
+    "anchorageDuration" : 352
+  }, {
+    "name" : "DRNDQJPCO",
+    "arrivalTime" : 10655,
+    "waitingTime" : 15,
+    "anchorageBeginning" : 10670,
+    "anchorageDuration" : 604
+  }, {
+    "name" : "VOIVOH",
+    "arrivalTime" : 10046,
+    "waitingTime" : 14,
+    "anchorageBeginning" : 10060,
+    "anchorageDuration" : 1438
+  }, {
+    "name" : "KJVZ",
+    "arrivalTime" : 10839,
+    "waitingTime" : 15,
+    "anchorageBeginning" : 10854,
+    "anchorageDuration" : 708
+  }, {
+    "name" : "DJTCNNM",
+    "arrivalTime" : 10219,
+    "waitingTime" : 15,
+    "anchorageBeginning" : 10234,
+    "anchorageDuration" : 1419
+  }, {
+    "name" : "PRVC",
+    "arrivalTime" : 10253,
+    "waitingTime" : 15,
+    "anchorageBeginning" : 10268,
+    "anchorageDuration" : 1385
+  }, {
+    "name" : "ZZOW",
+    "arrivalTime" : 11250,
+    "waitingTime" : 16,
+    "anchorageBeginning" : 11266,
+    "anchorageDuration" : 406
+  }, {
+    "name" : "RZRTNTMQM",
+    "arrivalTime" : 11263,
+    "waitingTime" : 16,
+    "anchorageBeginning" : 11279,
+    "anchorageDuration" : 585
+  }, {
+    "name" : "YYUVMQB",
+    "arrivalTime" : 11001,
+    "waitingTime" : 16,
+    "anchorageBeginning" : 11017,
+    "anchorageDuration" : 1343
+  }, {
+    "name" : "IJFJK",
+    "arrivalTime" : 11000,
+    "waitingTime" : 16,
+    "anchorageBeginning" : 11016,
+    "anchorageDuration" : 1438
+  }, {
+    "name" : "VEEGYI",
+    "arrivalTime" : 10885,
+    "waitingTime" : 15,
+    "anchorageBeginning" : 10900,
+    "anchorageDuration" : 1554
+  }, {
+    "name" : "TAUNXIAO",
+    "arrivalTime" : 11009,
+    "waitingTime" : 16,
+    "anchorageBeginning" : 11025,
+    "anchorageDuration" : 1429
+  }, {
+    "name" : "VTQ",
+    "arrivalTime" : 11930,
+    "waitingTime" : 16,
+    "anchorageBeginning" : 11946,
+    "anchorageDuration" : 817
+  }, {
+    "name" : "MBWFYWN",
+    "arrivalTime" : 11701,
+    "waitingTime" : 16,
+    "anchorageBeginning" : 11717,
+    "anchorageDuration" : 1231
+  }, {
+    "name" : "NMEAB",
+    "arrivalTime" : 12920,
+    "waitingTime" : 17,
+    "anchorageBeginning" : 12937,
+    "anchorageDuration" : 451
+  }, {
+    "name" : "ABLP",
+    "arrivalTime" : 12072,
+    "waitingTime" : 16,
+    "anchorageBeginning" : 12088,
+    "anchorageDuration" : 1302
+  }, {
+    "name" : "EUBEASW",
+    "arrivalTime" : 12695,
+    "waitingTime" : 17,
+    "anchorageBeginning" : 12712,
+    "anchorageDuration" : 683
+  }, {
+    "name" : "NQDUNRQ",
+    "arrivalTime" : 13045,
+    "waitingTime" : 17,
+    "anchorageBeginning" : 13062,
+    "anchorageDuration" : 550
+  }, {
+    "name" : "SHK",
+    "arrivalTime" : 12425,
+    "waitingTime" : 17,
+    "anchorageBeginning" : 12442,
+    "anchorageDuration" : 1319
+  }, {
+    "name" : "IJNSAPI",
+    "arrivalTime" : 12486,
+    "waitingTime" : 17,
+    "anchorageBeginning" : 12503,
+    "anchorageDuration" : 1258
+  }, {
+    "name" : "GYVOZVZR",
+    "arrivalTime" : 13282,
+    "waitingTime" : 17,
+    "anchorageBeginning" : 13299,
+    "anchorageDuration" : 462
+  }, {
+    "name" : "NRZQAP",
+    "arrivalTime" : 13062,
+    "waitingTime" : 17,
+    "anchorageBeginning" : 13079,
+    "anchorageDuration" : 724
+  }, {
+    "name" : "VRRA",
+    "arrivalTime" : 13634,
+    "waitingTime" : 18,
+    "anchorageBeginning" : 13652,
+    "anchorageDuration" : 1056
+  }, {
+    "name" : "OML",
+    "arrivalTime" : 13243,
+    "waitingTime" : 17,
+    "anchorageBeginning" : 13260,
+    "anchorageDuration" : 1448
+  }, {
+    "name" : "CFEMG",
+    "arrivalTime" : 13749,
+    "waitingTime" : 18,
+    "anchorageBeginning" : 13767,
+    "anchorageDuration" : 1643
+  }, {
+    "name" : "HDXTPL",
+    "arrivalTime" : 14648,
+    "waitingTime" : 18,
+    "anchorageBeginning" : 14666,
+    "anchorageDuration" : 744
+  }, {
+    "name" : "ROFXGSFNF",
+    "arrivalTime" : 15141,
+    "waitingTime" : 19,
+    "anchorageBeginning" : 15160,
+    "anchorageDuration" : 250
+  }, {
+    "name" : "SPDOGIHH",
+    "arrivalTime" : 14016,
+    "waitingTime" : 18,
+    "anchorageBeginning" : 14034,
+    "anchorageDuration" : 1429
+  }, {
+    "name" : "XTRL",
+    "arrivalTime" : 15255,
+    "waitingTime" : 19,
+    "anchorageBeginning" : 15274,
+    "anchorageDuration" : 497
+  }, {
+    "name" : "CACUSC",
+    "arrivalTime" : 15256,
+    "waitingTime" : 19,
+    "anchorageBeginning" : 15275,
+    "anchorageDuration" : 509
+  }, {
+    "name" : "XVMVOJQN",
+    "arrivalTime" : 14308,
+    "waitingTime" : 18,
+    "anchorageBeginning" : 14326,
+    "anchorageDuration" : 1458
+  }, {
+    "name" : "TEXYOAJZZ",
+    "arrivalTime" : 14749,
+    "waitingTime" : 18,
+    "anchorageBeginning" : 14767,
+    "anchorageDuration" : 1358
+  }, {
+    "name" : "IOKNOYCLO",
+    "arrivalTime" : 14699,
+    "waitingTime" : 18,
+    "anchorageBeginning" : 14717,
+    "anchorageDuration" : 1408
+  }, {
+    "name" : "UWVANE",
+    "arrivalTime" : 15457,
+    "waitingTime" : 19,
+    "anchorageBeginning" : 15476,
+    "anchorageDuration" : 695
+  }, {
+    "name" : "KFU",
+    "arrivalTime" : 15130,
+    "waitingTime" : 19,
+    "anchorageBeginning" : 15149,
+    "anchorageDuration" : 1022
+  }, {
+    "name" : "UWI",
+    "arrivalTime" : 14752,
+    "waitingTime" : 18,
+    "anchorageBeginning" : 14770,
+    "anchorageDuration" : 1401
+  }, {
+    "name" : "ILXU",
+    "arrivalTime" : 15916,
+    "waitingTime" : 20,
+    "anchorageBeginning" : 15936,
+    "anchorageDuration" : 398
+  }, {
+    "name" : "MSVBCX",
+    "arrivalTime" : 15557,
+    "waitingTime" : 19,
+    "anchorageBeginning" : 15576,
+    "anchorageDuration" : 801
+  }, {
+    "name" : "NAGEAY",
+    "arrivalTime" : 16091,
+    "waitingTime" : 20,
+    "anchorageBeginning" : 16111,
+    "anchorageDuration" : 375
+  }, {
+    "name" : "PXGLE",
+    "arrivalTime" : 15909,
+    "waitingTime" : 19,
+    "anchorageBeginning" : 15928,
+    "anchorageDuration" : 793
+  }, {
+    "name" : "BKDSQ",
+    "arrivalTime" : 15853,
+    "waitingTime" : 19,
+    "anchorageBeginning" : 15872,
+    "anchorageDuration" : 1109
+  }, {
+    "name" : "HZMSSNY",
+    "arrivalTime" : 16061,
+    "waitingTime" : 20,
+    "anchorageBeginning" : 16081,
+    "anchorageDuration" : 1133
+  }, {
+    "name" : "IWPEML",
+    "arrivalTime" : 17080,
+    "waitingTime" : 20,
+    "anchorageBeginning" : 17100,
+    "anchorageDuration" : 483
+  }, {
+    "name" : "UFWKYCX",
+    "arrivalTime" : 17394,
+    "waitingTime" : 20,
+    "anchorageBeginning" : 17414,
+    "anchorageDuration" : 416
+  }, {
+    "name" : "LTMDONW",
+    "arrivalTime" : 17562,
+    "waitingTime" : 20,
+    "anchorageBeginning" : 17582,
+    "anchorageDuration" : 402
+  }, {
+    "name" : "JGUNVD",
+    "arrivalTime" : 17316,
+    "waitingTime" : 20,
+    "anchorageBeginning" : 17336,
+    "anchorageDuration" : 699
+  }, {
+    "name" : "BUZXVZHHH",
+    "arrivalTime" : 17708,
+    "waitingTime" : 20,
+    "anchorageBeginning" : 17728,
+    "anchorageDuration" : 648
+  }, {
+    "name" : "LFCUZL",
+    "arrivalTime" : 17746,
+    "waitingTime" : 21,
+    "anchorageBeginning" : 17767,
+    "anchorageDuration" : 1693
+  }, {
+    "name" : "BOMUAJFX",
+    "arrivalTime" : 18838,
+    "waitingTime" : 21,
+    "anchorageBeginning" : 18859,
+    "anchorageDuration" : 726
+  }, {
+    "name" : "JRNIMZH",
+    "arrivalTime" : 18550,
+    "waitingTime" : 21,
+    "anchorageBeginning" : 18571,
+    "anchorageDuration" : 1014
+  }, {
+    "name" : "IIWBMJSOR",
+    "arrivalTime" : 19356,
+    "waitingTime" : 21,
+    "anchorageBeginning" : 19377,
+    "anchorageDuration" : 254
+  }, {
+    "name" : "KGVM",
+    "arrivalTime" : 19237,
+    "waitingTime" : 21,
+    "anchorageBeginning" : 19258,
+    "anchorageDuration" : 1516
+  }, {
+    "name" : "XYYUYFK",
+    "arrivalTime" : 20487,
+    "waitingTime" : 22,
+    "anchorageBeginning" : 20509,
+    "anchorageDuration" : 265
+  }, {
+    "name" : "YIEJQ",
+    "arrivalTime" : 20370,
+    "waitingTime" : 21,
+    "anchorageBeginning" : 20391,
+    "anchorageDuration" : 414
+  }, {
+    "name" : "ELYNSWKZ",
+    "arrivalTime" : 20744,
+    "waitingTime" : 22,
+    "anchorageBeginning" : 20766,
+    "anchorageDuration" : 201
+  }, {
+    "name" : "NHEDAQJF",
+    "arrivalTime" : 19910,
+    "waitingTime" : 21,
+    "anchorageBeginning" : 19931,
+    "anchorageDuration" : 1036
+  }, {
+    "name" : "GUP",
+    "arrivalTime" : 21101,
+    "waitingTime" : 22,
+    "anchorageBeginning" : 21123,
+    "anchorageDuration" : 459
+  }, {
+    "name" : "VSNLIISSV",
+    "arrivalTime" : 21100,
+    "waitingTime" : 22,
+    "anchorageBeginning" : 21122,
+    "anchorageDuration" : 460
+  }, {
+    "name" : "KVC",
+    "arrivalTime" : 21045,
+    "waitingTime" : 22,
+    "anchorageBeginning" : 21067,
+    "anchorageDuration" : 638
+  }, {
+    "name" : "YXZQSBFE",
+    "arrivalTime" : 21398,
+    "waitingTime" : 22,
+    "anchorageBeginning" : 21420,
+    "anchorageDuration" : 490
+  }, {
+    "name" : "HBHVQ",
+    "arrivalTime" : 21672,
+    "waitingTime" : 22,
+    "anchorageBeginning" : 21694,
+    "anchorageDuration" : 478
+  }, {
+    "name" : "DFX",
+    "arrivalTime" : 21150,
+    "waitingTime" : 22,
+    "anchorageBeginning" : 21172,
+    "anchorageDuration" : 1379
+  }, {
+    "name" : "TLPV",
+    "arrivalTime" : 21974,
+    "waitingTime" : 23,
+    "anchorageBeginning" : 21997,
+    "anchorageDuration" : 576
+  }, {
+    "name" : "SGLMFG",
+    "arrivalTime" : 20344,
+    "waitingTime" : 21,
+    "anchorageBeginning" : 20365,
+    "anchorageDuration" : 2360
+  }, {
+    "name" : "SGNE",
+    "arrivalTime" : 22251,
+    "waitingTime" : 23,
+    "anchorageBeginning" : 22274,
+    "anchorageDuration" : 801
+  }, {
+    "name" : "FSLV",
+    "arrivalTime" : 22871,
+    "waitingTime" : 23,
+    "anchorageBeginning" : 22894,
+    "anchorageDuration" : 181
+  }, {
+    "name" : "ZRR",
+    "arrivalTime" : 23072,
+    "waitingTime" : 23,
+    "anchorageBeginning" : 23095,
+    "anchorageDuration" : 1338
+  }, {
+    "name" : "QCCIBWZCS",
+    "arrivalTime" : 24360,
+    "waitingTime" : 23,
+    "anchorageBeginning" : 24383,
+    "anchorageDuration" : 196
+  }, {
+    "name" : "GJOXV",
+    "arrivalTime" : 24025,
+    "waitingTime" : 23,
+    "anchorageBeginning" : 24048,
+    "anchorageDuration" : 730
+  }, {
+    "name" : "ZJIU",
+    "arrivalTime" : 23545,
+    "waitingTime" : 23,
+    "anchorageBeginning" : 23568,
+    "anchorageDuration" : 1210
+  }, {
+    "name" : "BDHPGQIZ",
+    "arrivalTime" : 24446,
+    "waitingTime" : 23,
+    "anchorageBeginning" : 24469,
+    "anchorageDuration" : 1295
+  }, {
+    "name" : "VPFIINFOB",
+    "arrivalTime" : 25234,
+    "waitingTime" : 24,
+    "anchorageBeginning" : 25258,
+    "anchorageDuration" : 506
+  }, {
+    "name" : "WGCENJ",
+    "arrivalTime" : 24454,
+    "waitingTime" : 24,
+    "anchorageBeginning" : 24478,
+    "anchorageDuration" : 1286
+  }, {
+    "name" : "UVQZQH",
+    "arrivalTime" : 25517,
+    "waitingTime" : 24,
+    "anchorageBeginning" : 25541,
+    "anchorageDuration" : 453
+  }, {
+    "name" : "OTMLHGEJ",
+    "arrivalTime" : 25265,
+    "waitingTime" : 24,
+    "anchorageBeginning" : 25289,
+    "anchorageDuration" : 781
+  }, {
+    "name" : "UOSIF",
+    "arrivalTime" : 25044,
+    "waitingTime" : 24,
+    "anchorageBeginning" : 25068,
+    "anchorageDuration" : 1002
+  }, {
+    "name" : "ALQHINIX",
+    "arrivalTime" : 25438,
+    "waitingTime" : 24,
+    "anchorageBeginning" : 25462,
+    "anchorageDuration" : 829
+  }, {
+    "name" : "KRYRVF",
+    "arrivalTime" : 26092,
+    "waitingTime" : 24,
+    "anchorageBeginning" : 26116,
+    "anchorageDuration" : 445
+  }, {
+    "name" : "CDCOV",
+    "arrivalTime" : 26522,
+    "waitingTime" : 25,
+    "anchorageBeginning" : 26547,
+    "anchorageDuration" : 404
+  }, {
+    "name" : "TBUXGEW",
+    "arrivalTime" : 26521,
+    "waitingTime" : 25,
+    "anchorageBeginning" : 26546,
+    "anchorageDuration" : 1346
+  }, {
+    "name" : "SWDQFWHT",
+    "arrivalTime" : 26940,
+    "waitingTime" : 25,
+    "anchorageBeginning" : 26965,
+    "anchorageDuration" : 1802
+  }, {
+    "name" : "CRDZZK",
+    "arrivalTime" : 27263,
+    "waitingTime" : 25,
+    "anchorageBeginning" : 27288,
+    "anchorageDuration" : 1616
+  }, {
+    "name" : "CYIVU",
+    "arrivalTime" : 27921,
+    "waitingTime" : 25,
+    "anchorageBeginning" : 27946,
+    "anchorageDuration" : 958
+  }, {
+    "name" : "NYCOMSY",
+    "arrivalTime" : 27353,
+    "waitingTime" : 25,
+    "anchorageBeginning" : 27378,
+    "anchorageDuration" : 1526
+  }, {
+    "name" : "UOPWV",
+    "arrivalTime" : 28353,
+    "waitingTime" : 26,
+    "anchorageBeginning" : 28379,
+    "anchorageDuration" : 874
+  }, {
+    "name" : "HGOHLCGN",
+    "arrivalTime" : 27623,
+    "waitingTime" : 25,
+    "anchorageBeginning" : 27648,
+    "anchorageDuration" : 1605
+  }, {
+    "name" : "VQMFUCPE",
+    "arrivalTime" : 28265,
+    "waitingTime" : 25,
+    "anchorageBeginning" : 28290,
+    "anchorageDuration" : 963
+  }, {
+    "name" : "HFKD",
+    "arrivalTime" : 29199,
+    "waitingTime" : 26,
+    "anchorageBeginning" : 29225,
+    "anchorageDuration" : 90
+  }, {
+    "name" : "KTUULBJB",
+    "arrivalTime" : 28738,
+    "waitingTime" : 26,
+    "anchorageBeginning" : 28764,
+    "anchorageDuration" : 637
+  }, {
+    "name" : "WDY",
+    "arrivalTime" : 28393,
+    "waitingTime" : 26,
+    "anchorageBeginning" : 28419,
+    "anchorageDuration" : 1093
+  }, {
+    "name" : "ALSZWGFS",
+    "arrivalTime" : 30227,
+    "waitingTime" : 26,
+    "anchorageBeginning" : 30253,
+    "anchorageDuration" : 386
+  }, {
+    "name" : "YNLZ",
+    "arrivalTime" : 30678,
+    "waitingTime" : 26,
+    "anchorageBeginning" : 30704,
+    "anchorageDuration" : 459
+  }, {
+    "name" : "JHEOENALD",
+    "arrivalTime" : 30886,
+    "waitingTime" : 27,
+    "anchorageBeginning" : 30913,
+    "anchorageDuration" : 435
+  }, {
+    "name" : "ATP",
+    "arrivalTime" : 30710,
+    "waitingTime" : 26,
+    "anchorageBeginning" : 30736,
+    "anchorageDuration" : 612
+  }, {
+    "name" : "INWY",
+    "arrivalTime" : 29800,
+    "waitingTime" : 26,
+    "anchorageBeginning" : 29826,
+    "anchorageDuration" : 1522
+  }, {
+    "name" : "YNUZWDH",
+    "arrivalTime" : 31135,
+    "waitingTime" : 27,
+    "anchorageBeginning" : 31162,
+    "anchorageDuration" : 759
+  }, {
+    "name" : "ONETJZARN",
+    "arrivalTime" : 30927,
+    "waitingTime" : 27,
+    "anchorageBeginning" : 30954,
+    "anchorageDuration" : 1360
+  }, {
+    "name" : "NYG",
+    "arrivalTime" : 30850,
+    "waitingTime" : 27,
+    "anchorageBeginning" : 30877,
+    "anchorageDuration" : 1437
+  }, {
+    "name" : "ENNEYTR",
+    "arrivalTime" : 31412,
+    "waitingTime" : 27,
+    "anchorageBeginning" : 31439,
+    "anchorageDuration" : 875
+  }, {
+    "name" : "UGOBMBKF",
+    "arrivalTime" : 32243,
+    "waitingTime" : 28,
+    "anchorageBeginning" : 32271,
+    "anchorageDuration" : 83
+  }, {
+    "name" : "IVGFUBUU",
+    "arrivalTime" : 31687,
+    "waitingTime" : 27,
+    "anchorageBeginning" : 31714,
+    "anchorageDuration" : 649
+  }, {
+    "name" : "NMTTJ",
+    "arrivalTime" : 31083,
+    "waitingTime" : 27,
+    "anchorageBeginning" : 31110,
+    "anchorageDuration" : 1253
+  }, {
+    "name" : "UVWRIPT",
+    "arrivalTime" : 31852,
+    "waitingTime" : 28,
+    "anchorageBeginning" : 31880,
+    "anchorageDuration" : 492
+  }, {
+    "name" : "QHVZTXYTY",
+    "arrivalTime" : 31345,
+    "waitingTime" : 27,
+    "anchorageBeginning" : 31372,
+    "anchorageDuration" : 1000
+  }, {
+    "name" : "JDLQBTR",
+    "arrivalTime" : 31826,
+    "waitingTime" : 28,
+    "anchorageBeginning" : 31854,
+    "anchorageDuration" : 567
+  }, {
+    "name" : "YRTXDU",
+    "arrivalTime" : 32117,
+    "waitingTime" : 28,
+    "anchorageBeginning" : 32145,
+    "anchorageDuration" : 281
+  }, {
+    "name" : "XZKH",
+    "arrivalTime" : 32526,
+    "waitingTime" : 28,
+    "anchorageBeginning" : 32554,
+    "anchorageDuration" : 614
+  }, {
+    "name" : "HJE",
+    "arrivalTime" : 32574,
+    "waitingTime" : 28,
+    "anchorageBeginning" : 32602,
+    "anchorageDuration" : 566
+  }, {
+    "name" : "ZDCKGPM",
+    "arrivalTime" : 32538,
+    "waitingTime" : 28,
+    "anchorageBeginning" : 32566,
+    "anchorageDuration" : 632
+  }, {
+    "name" : "UCSYO",
+    "arrivalTime" : 31976,
+    "waitingTime" : 28,
+    "anchorageBeginning" : 32004,
+    "anchorageDuration" : 1241
+  }, {
+    "name" : "HXSKN",
+    "arrivalTime" : 32682,
+    "waitingTime" : 29,
+    "anchorageBeginning" : 32711,
+    "anchorageDuration" : 534
+  }, {
+    "name" : "NQFMQGBTV",
+    "arrivalTime" : 32768,
+    "waitingTime" : 29,
+    "anchorageBeginning" : 32797,
+    "anchorageDuration" : 536
+  }, {
+    "name" : "KAWUDXT",
+    "arrivalTime" : 32751,
+    "waitingTime" : 29,
+    "anchorageBeginning" : 32780,
+    "anchorageDuration" : 761
+  }, {
+    "name" : "TFEZHGJ",
+    "arrivalTime" : 32453,
+    "waitingTime" : 28,
+    "anchorageBeginning" : 32481,
+    "anchorageDuration" : 1294
+  }, {
+    "name" : "ZYKDIBN",
+    "arrivalTime" : 33597,
+    "waitingTime" : 29,
+    "anchorageBeginning" : 33626,
+    "anchorageDuration" : 314
+  }, {
+    "name" : "EMUSQX",
+    "arrivalTime" : 33023,
+    "waitingTime" : 29,
+    "anchorageBeginning" : 33052,
+    "anchorageDuration" : 889
+  }, {
+    "name" : "QSQYDFUPT",
+    "arrivalTime" : 33808,
+    "waitingTime" : 29,
+    "anchorageBeginning" : 33837,
+    "anchorageDuration" : 1844
+  }, {
+    "name" : "BFXHD",
+    "arrivalTime" : 34149,
+    "waitingTime" : 29,
+    "anchorageBeginning" : 34178,
+    "anchorageDuration" : 1503
+  }, {
+    "name" : "TERBKKLN",
+    "arrivalTime" : 34293,
+    "waitingTime" : 29,
+    "anchorageBeginning" : 34322,
+    "anchorageDuration" : 1359
+  }, {
+    "name" : "MOMJKZHCY",
+    "arrivalTime" : 35292,
+    "waitingTime" : 30,
+    "anchorageBeginning" : 35322,
+    "anchorageDuration" : 616
+  }, {
+    "name" : "FWVAIG",
+    "arrivalTime" : 35008,
+    "waitingTime" : 30,
+    "anchorageBeginning" : 35038,
+    "anchorageDuration" : 1411
+  }, {
+    "name" : "OTTIJ",
+    "arrivalTime" : 36130,
+    "waitingTime" : 31,
+    "anchorageBeginning" : 36161,
+    "anchorageDuration" : 288
+  }, {
+    "name" : "RVX",
+    "arrivalTime" : 34867,
+    "waitingTime" : 30,
+    "anchorageBeginning" : 34897,
+    "anchorageDuration" : 1552
+  }, {
+    "name" : "ICGQXZX",
+    "arrivalTime" : 34958,
+    "waitingTime" : 30,
+    "anchorageBeginning" : 34988,
+    "anchorageDuration" : 1522
+  }, {
+    "name" : "PCXRAAFO",
+    "arrivalTime" : 36028,
+    "waitingTime" : 30,
+    "anchorageBeginning" : 36058,
+    "anchorageDuration" : 462
+  }, {
+    "name" : "AENZF",
+    "arrivalTime" : 35173,
+    "waitingTime" : 30,
+    "anchorageBeginning" : 35203,
+    "anchorageDuration" : 1323
+  }, {
+    "name" : "LQU",
+    "arrivalTime" : 35681,
+    "waitingTime" : 30,
+    "anchorageBeginning" : 35711,
+    "anchorageDuration" : 824
+  }, {
+    "name" : "WIFFUOT",
+    "arrivalTime" : 36036,
+    "waitingTime" : 31,
+    "anchorageBeginning" : 36067,
+    "anchorageDuration" : 595
+  }, {
+    "name" : "OMW",
+    "arrivalTime" : 36323,
+    "waitingTime" : 31,
+    "anchorageBeginning" : 36354,
+    "anchorageDuration" : 2082
+  }, {
+    "name" : "LWW",
+    "arrivalTime" : 37639,
+    "waitingTime" : 31,
+    "anchorageBeginning" : 37670,
+    "anchorageDuration" : 766
+  }, {
+    "name" : "PQQ",
+    "arrivalTime" : 38424,
+    "waitingTime" : 31,
+    "anchorageBeginning" : 38455,
+    "anchorageDuration" : 885
+  }, {
+    "name" : "YDFRGPD",
+    "arrivalTime" : 38534,
+    "waitingTime" : 31,
+    "anchorageBeginning" : 38565,
+    "anchorageDuration" : 783
+  }, {
+    "name" : "NNR",
+    "arrivalTime" : 38020,
+    "waitingTime" : 31,
+    "anchorageBeginning" : 38051,
+    "anchorageDuration" : 1297
+  }, {
+    "name" : "WJT",
+    "arrivalTime" : 38718,
+    "waitingTime" : 31,
+    "anchorageBeginning" : 38749,
+    "anchorageDuration" : 599
+  }, {
+    "name" : "RHJPWFEJR",
+    "arrivalTime" : 39079,
+    "waitingTime" : 32,
+    "anchorageBeginning" : 39111,
+    "anchorageDuration" : 376
+  }, {
+    "name" : "WJIDDAHNV",
+    "arrivalTime" : 39683,
+    "waitingTime" : 32,
+    "anchorageBeginning" : 39715,
+    "anchorageDuration" : 1068
+  }, {
+    "name" : "UPGCGO",
+    "arrivalTime" : 40676,
+    "waitingTime" : 32,
+    "anchorageBeginning" : 40708,
+    "anchorageDuration" : 165
+  }, {
+    "name" : "FDRSIFU",
+    "arrivalTime" : 39865,
+    "waitingTime" : 32,
+    "anchorageBeginning" : 39897,
+    "anchorageDuration" : 976
+  }, {
+    "name" : "SPBM",
+    "arrivalTime" : 39872,
+    "waitingTime" : 32,
+    "anchorageBeginning" : 39904,
+    "anchorageDuration" : 1488
+  }, {
+    "name" : "YIPFJJYIC",
+    "arrivalTime" : 40655,
+    "waitingTime" : 32,
+    "anchorageBeginning" : 40687,
+    "anchorageDuration" : 1048
+  }, {
+    "name" : "CLGR",
+    "arrivalTime" : 40834,
+    "waitingTime" : 32,
+    "anchorageBeginning" : 40866,
+    "anchorageDuration" : 988
+  }, {
+    "name" : "DBCZUH",
+    "arrivalTime" : 40935,
+    "waitingTime" : 32,
+    "anchorageBeginning" : 40967,
+    "anchorageDuration" : 1142
+  }, {
+    "name" : "KJJGAQSLK",
+    "arrivalTime" : 41833,
+    "waitingTime" : 33,
+    "anchorageBeginning" : 41866,
+    "anchorageDuration" : 243
+  }, {
+    "name" : "WIAPWFJ",
+    "arrivalTime" : 42679,
+    "waitingTime" : 33,
+    "anchorageBeginning" : 42712,
+    "anchorageDuration" : 1009
+  }, {
+    "name" : "MRGEHZBQ",
+    "arrivalTime" : 42671,
+    "waitingTime" : 33,
+    "anchorageBeginning" : 42704,
+    "anchorageDuration" : 1017
+  }, {
+    "name" : "MPX",
+    "arrivalTime" : 41453,
+    "waitingTime" : 33,
+    "anchorageBeginning" : 41486,
+    "anchorageDuration" : 2235
+  }, {
+    "name" : "IMMEFUG",
+    "arrivalTime" : 42961,
+    "waitingTime" : 33,
+    "anchorageBeginning" : 42994,
+    "anchorageDuration" : 1975
+  } ],
+  "averageQueueWaiting" : 15.981818181818182,
+  "maxAnchorageDelay" : 1432,
+  "averageAnchorageDelay" : 770.0327272727272,
+  "averageQueueLength" : 0.0,
+  "fines" : [ 2500, 2600, 2100 ]
+}{
+  "result" : [ {
+    "name" : "VSBOV",
+    "arrivalTime" : 130,
+    "waitingTime" : 0,
+    "anchorageBeginning" : 130,
+    "anchorageDuration" : 243
+  }, {
+    "name" : "PGWVKRIQ",
+    "arrivalTime" : 210,
+    "waitingTime" : 1,
+    "anchorageBeginning" : 211,
+    "anchorageDuration" : 342
+  }, {
+    "name" : "CCOIFFNS",
+    "arrivalTime" : 318,
+    "waitingTime" : 1,
+    "anchorageBeginning" : 319,
+    "anchorageDuration" : 249
+  }, {
+    "name" : "DFD",
+    "arrivalTime" : 756,
+    "waitingTime" : 3,
+    "anchorageBeginning" : 759,
+    "anchorageDuration" : 156
+  }, {
+    "name" : "ANBW",
+    "arrivalTime" : 145,
+    "waitingTime" : 1,
+    "anchorageBeginning" : 146,
+    "anchorageDuration" : 844
+  }, {
+    "name" : "SUF",
+    "arrivalTime" : 858,
+    "waitingTime" : 3,
+    "anchorageBeginning" : 861,
+    "anchorageDuration" : 310
+  }, {
+    "name" : "JLC",
+    "arrivalTime" : 20,
+    "waitingTime" : 0,
+    "anchorageBeginning" : 20,
+    "anchorageDuration" : 1151
+  }, {
+    "name" : "SSGY",
+    "arrivalTime" : 432,
+    "waitingTime" : 2,
+    "anchorageBeginning" : 434,
+    "anchorageDuration" : 737
+  }, {
+    "name" : "QTCAFJ",
+    "arrivalTime" : 465,
+    "waitingTime" : 2,
+    "anchorageBeginning" : 467,
+    "anchorageDuration" : 704
+  }, {
+    "name" : "EACODMXYG",
+    "arrivalTime" : 275,
+    "waitingTime" : 1,
+    "anchorageBeginning" : 276,
+    "anchorageDuration" : 896
+  }, {
+    "name" : "JYGUBV",
+    "arrivalTime" : 206,
+    "waitingTime" : 1,
+    "anchorageBeginning" : 207,
+    "anchorageDuration" : 965
+  }, {
+    "name" : "BEPO",
+    "arrivalTime" : 353,
+    "waitingTime" : 1,
+    "anchorageBeginning" : 354,
+    "anchorageDuration" : 818
+  }, {
+    "name" : "ZPUIHFC",
+    "arrivalTime" : 9,
+    "waitingTime" : 0,
+    "anchorageBeginning" : 9,
+    "anchorageDuration" : 1201
+  }, {
+    "name" : "YUYED",
+    "arrivalTime" : 900,
+    "waitingTime" : 4,
+    "anchorageBeginning" : 904,
+    "anchorageDuration" : 306
+  }, {
+    "name" : "NIGF",
+    "arrivalTime" : 1137,
+    "waitingTime" : 4,
+    "anchorageBeginning" : 1141,
+    "anchorageDuration" : 101
+  }, {
+    "name" : "ZBYXT",
+    "arrivalTime" : 433,
+    "waitingTime" : 2,
+    "anchorageBeginning" : 435,
+    "anchorageDuration" : 901
+  }, {
+    "name" : "ZAVKAHVK",
+    "arrivalTime" : 525,
+    "waitingTime" : 2,
+    "anchorageBeginning" : 527,
+    "anchorageDuration" : 929
+  }, {
+    "name" : "AECZUY",
+    "arrivalTime" : 844,
+    "waitingTime" : 3,
+    "anchorageBeginning" : 847,
+    "anchorageDuration" : 619
+  }, {
+    "name" : "BECDE",
+    "arrivalTime" : 1182,
+    "waitingTime" : 5,
+    "anchorageBeginning" : 1187,
+    "anchorageDuration" : 287
+  }, {
+    "name" : "DVKPLTV",
+    "arrivalTime" : 1407,
+    "waitingTime" : 5,
+    "anchorageBeginning" : 1412,
+    "anchorageDuration" : 67
+  }, {
+    "name" : "OML",
+    "arrivalTime" : 283,
+    "waitingTime" : 1,
+    "anchorageBeginning" : 284,
+    "anchorageDuration" : 1217
+  }, {
+    "name" : "IBZFN",
+    "arrivalTime" : 440,
+    "waitingTime" : 2,
+    "anchorageBeginning" : 442,
+    "anchorageDuration" : 1059
+  }, {
+    "name" : "YYAUARUQK",
+    "arrivalTime" : 478,
+    "waitingTime" : 2,
+    "anchorageBeginning" : 480,
+    "anchorageDuration" : 1021
+  }, {
+    "name" : "UWI",
+    "arrivalTime" : 352,
+    "waitingTime" : 1,
+    "anchorageBeginning" : 353,
+    "anchorageDuration" : 1148
+  }, {
+    "name" : "GITTA",
+    "arrivalTime" : 793,
+    "waitingTime" : 3,
+    "anchorageBeginning" : 796,
+    "anchorageDuration" : 705
+  }, {
+    "name" : "FXCXDNPBI",
+    "arrivalTime" : 127,
+    "waitingTime" : 0,
+    "anchorageBeginning" : 127,
+    "anchorageDuration" : 1374
+  }, {
+    "name" : "CRAUISY",
+    "arrivalTime" : 1016,
+    "waitingTime" : 4,
+    "anchorageBeginning" : 1020,
+    "anchorageDuration" : 493
+  }, {
+    "name" : "NIYBJ",
+    "arrivalTime" : 745,
+    "waitingTime" : 3,
+    "anchorageBeginning" : 748,
+    "anchorageDuration" : 769
+  }, {
+    "name" : "KDLUED",
+    "arrivalTime" : 582,
+    "waitingTime" : 2,
+    "anchorageBeginning" : 584,
+    "anchorageDuration" : 939
+  }, {
+    "name" : "IKT",
+    "arrivalTime" : 655,
+    "waitingTime" : 3,
+    "anchorageBeginning" : 658,
+    "anchorageDuration" : 873
+  }, {
+    "name" : "MIXK",
+    "arrivalTime" : 1256,
+    "waitingTime" : 5,
+    "anchorageBeginning" : 1261,
+    "anchorageDuration" : 271
+  }, {
+    "name" : "VTQ",
+    "arrivalTime" : 410,
+    "waitingTime" : 1,
+    "anchorageBeginning" : 411,
+    "anchorageDuration" : 1155
+  }, {
+    "name" : "OGI",
+    "arrivalTime" : 1108,
+    "waitingTime" : 4,
+    "anchorageBeginning" : 1112,
+    "anchorageDuration" : 473
+  }, {
+    "name" : "QMKQPN",
+    "arrivalTime" : 1342,
+    "waitingTime" : 5,
+    "anchorageBeginning" : 1347,
+    "anchorageDuration" : 251
+  }, {
+    "name" : "HNS",
+    "arrivalTime" : 1249,
+    "waitingTime" : 5,
+    "anchorageBeginning" : 1254,
+    "anchorageDuration" : 448
+  }, {
+    "name" : "SDZQ",
+    "arrivalTime" : 805,
+    "waitingTime" : 3,
+    "anchorageBeginning" : 808,
+    "anchorageDuration" : 894
+  }, {
+    "name" : "KZZHIM",
+    "arrivalTime" : 594,
+    "waitingTime" : 3,
+    "anchorageBeginning" : 597,
+    "anchorageDuration" : 1105
+  }, {
+    "name" : "JWJJHEUCB",
+    "arrivalTime" : 1257,
+    "waitingTime" : 5,
+    "anchorageBeginning" : 1262,
+    "anchorageDuration" : 505
+  }, {
+    "name" : "RVW",
+    "arrivalTime" : 1114,
+    "waitingTime" : 4,
+    "anchorageBeginning" : 1118,
+    "anchorageDuration" : 669
+  }, {
+    "name" : "AAQGFC",
+    "arrivalTime" : 970,
+    "waitingTime" : 4,
+    "anchorageBeginning" : 974,
+    "anchorageDuration" : 828
+  }, {
+    "name" : "XZXPNL",
+    "arrivalTime" : 618,
+    "waitingTime" : 3,
+    "anchorageBeginning" : 621,
+    "anchorageDuration" : 1181
+  }, {
+    "name" : "LGDZBW",
+    "arrivalTime" : 1090,
+    "waitingTime" : 4,
+    "anchorageBeginning" : 1094,
+    "anchorageDuration" : 708
+  }, {
+    "name" : "SEZSFYDCI",
+    "arrivalTime" : 575,
+    "waitingTime" : 2,
+    "anchorageBeginning" : 577,
+    "anchorageDuration" : 1225
+  }, {
+    "name" : "TPQW",
+    "arrivalTime" : 916,
+    "waitingTime" : 4,
+    "anchorageBeginning" : 920,
+    "anchorageDuration" : 882
+  }, {
+    "name" : "PQCWG",
+    "arrivalTime" : 1053,
+    "waitingTime" : 4,
+    "anchorageBeginning" : 1057,
+    "anchorageDuration" : 794
+  }, {
+    "name" : "XVMVOJQN",
+    "arrivalTime" : 1348,
+    "waitingTime" : 5,
+    "anchorageBeginning" : 1353,
+    "anchorageDuration" : 498
+  }, {
+    "name" : "DJTCNNM",
+    "arrivalTime" : 1579,
+    "waitingTime" : 6,
+    "anchorageBeginning" : 1585,
+    "anchorageDuration" : 280
+  }, {
+    "name" : "OVT",
+    "arrivalTime" : 1419,
+    "waitingTime" : 6,
+    "anchorageBeginning" : 1425,
+    "anchorageDuration" : 550
+  }, {
+    "name" : "FWI",
+    "arrivalTime" : 1370,
+    "waitingTime" : 5,
+    "anchorageBeginning" : 1375,
+    "anchorageDuration" : 656
+  }, {
+    "name" : "AMS",
+    "arrivalTime" : 1494,
+    "waitingTime" : 6,
+    "anchorageBeginning" : 1500,
+    "anchorageDuration" : 578
+  }, {
+    "name" : "ZWYIPQQDV",
+    "arrivalTime" : 1923,
+    "waitingTime" : 6,
+    "anchorageBeginning" : 1929,
+    "anchorageDuration" : 201
+  }, {
+    "name" : "IHGKMQJ",
+    "arrivalTime" : 1660,
+    "waitingTime" : 6,
+    "anchorageBeginning" : 1666,
+    "anchorageDuration" : 469
+  }, {
+    "name" : "XBQEJSC",
+    "arrivalTime" : 1890,
+    "waitingTime" : 6,
+    "anchorageBeginning" : 1896,
+    "anchorageDuration" : 267
+  }, {
+    "name" : "XGIKKXCRU",
+    "arrivalTime" : 1965,
+    "waitingTime" : 6,
+    "anchorageBeginning" : 1971,
+    "anchorageDuration" : 347
+  }, {
+    "name" : "QRWEVBAFT",
+    "arrivalTime" : 1856,
+    "waitingTime" : 6,
+    "anchorageBeginning" : 1862,
+    "anchorageDuration" : 716
+  }, {
+    "name" : "ABLP",
+    "arrivalTime" : 1992,
+    "waitingTime" : 6,
+    "anchorageBeginning" : 1998,
+    "anchorageDuration" : 668
+  }, {
+    "name" : "HDXTPL",
+    "arrivalTime" : 3128,
+    "waitingTime" : 7,
+    "anchorageBeginning" : 3135,
+    "anchorageDuration" : 717
+  }, {
+    "name" : "XTRL",
+    "arrivalTime" : 3735,
+    "waitingTime" : 7,
+    "anchorageBeginning" : 3742,
+    "anchorageDuration" : 484
+  }, {
+    "name" : "NQDUNRQ",
+    "arrivalTime" : 2965,
+    "waitingTime" : 7,
+    "anchorageBeginning" : 2972,
+    "anchorageDuration" : 1254
+  }, {
+    "name" : "CIP",
+    "arrivalTime" : 3048,
+    "waitingTime" : 7,
+    "anchorageBeginning" : 3055,
+    "anchorageDuration" : 1171
+  }, {
+    "name" : "XQIU",
+    "arrivalTime" : 3368,
+    "waitingTime" : 7,
+    "anchorageBeginning" : 3375,
+    "anchorageDuration" : 1072
+  }, {
+    "name" : "XJHATQNZ",
+    "arrivalTime" : 4044,
+    "waitingTime" : 8,
+    "anchorageBeginning" : 4052,
+    "anchorageDuration" : 565
+  }, {
+    "name" : "VEEGYI",
+    "arrivalTime" : 3685,
+    "waitingTime" : 7,
+    "anchorageBeginning" : 3692,
+    "anchorageDuration" : 925
+  }, {
+    "name" : "BJVIXBO",
+    "arrivalTime" : 4320,
+    "waitingTime" : 8,
+    "anchorageBeginning" : 4328,
+    "anchorageDuration" : 289
+  }, {
+    "name" : "AWAFVJ",
+    "arrivalTime" : 3980,
+    "waitingTime" : 8,
+    "anchorageBeginning" : 3988,
+    "anchorageDuration" : 680
+  }, {
+    "name" : "NRZQAP",
+    "arrivalTime" : 2982,
+    "waitingTime" : 7,
+    "anchorageBeginning" : 2989,
+    "anchorageDuration" : 1679
+  }, {
+    "name" : "SFTCGOV",
+    "arrivalTime" : 3927,
+    "waitingTime" : 7,
+    "anchorageBeginning" : 3934,
+    "anchorageDuration" : 783
+  }, {
+    "name" : "ABUF",
+    "arrivalTime" : 5468,
+    "waitingTime" : 9,
+    "anchorageBeginning" : 5477,
+    "anchorageDuration" : 524
+  }, {
+    "name" : "ROIC",
+    "arrivalTime" : 5920,
+    "waitingTime" : 9,
+    "anchorageBeginning" : 5929,
+    "anchorageDuration" : 417
+  }, {
+    "name" : "YOJSI",
+    "arrivalTime" : 6206,
+    "waitingTime" : 10,
+    "anchorageBeginning" : 6216,
+    "anchorageDuration" : 130
+  }, {
+    "name" : "LTRIMZS",
+    "arrivalTime" : 5446,
+    "waitingTime" : 9,
+    "anchorageBeginning" : 5455,
+    "anchorageDuration" : 963
+  }, {
+    "name" : "IJFJK",
+    "arrivalTime" : 5240,
+    "waitingTime" : 8,
+    "anchorageBeginning" : 5248,
+    "anchorageDuration" : 1170
+  }, {
+    "name" : "LOCHVDRTP",
+    "arrivalTime" : 5465,
+    "waitingTime" : 9,
+    "anchorageBeginning" : 5474,
+    "anchorageDuration" : 944
+  }, {
+    "name" : "BHXCJJJK",
+    "arrivalTime" : 5786,
+    "waitingTime" : 9,
+    "anchorageBeginning" : 5795,
+    "anchorageDuration" : 623
+  }, {
+    "name" : "TVVXDYT",
+    "arrivalTime" : 6064,
+    "waitingTime" : 9,
+    "anchorageBeginning" : 6073,
+    "anchorageDuration" : 572
+  }, {
+    "name" : "BKDSQ",
+    "arrivalTime" : 5773,
+    "waitingTime" : 9,
+    "anchorageBeginning" : 5782,
+    "anchorageDuration" : 863
+  }, {
+    "name" : "MITM",
+    "arrivalTime" : 4446,
+    "waitingTime" : 8,
+    "anchorageBeginning" : 4454,
+    "anchorageDuration" : 2191
+  }, {
+    "name" : "QCUGA",
+    "arrivalTime" : 5223,
+    "waitingTime" : 8,
+    "anchorageBeginning" : 5231,
+    "anchorageDuration" : 1414
+  }, {
+    "name" : "GURGZE",
+    "arrivalTime" : 4671,
+    "waitingTime" : 8,
+    "anchorageBeginning" : 4679,
+    "anchorageDuration" : 1966
+  }, {
+    "name" : "FWLID",
+    "arrivalTime" : 6315,
+    "waitingTime" : 10,
+    "anchorageBeginning" : 6325,
+    "anchorageDuration" : 499
+  }, {
+    "name" : "JKVQL",
+    "arrivalTime" : 6524,
+    "waitingTime" : 10,
+    "anchorageBeginning" : 6534,
+    "anchorageDuration" : 290
+  }, {
+    "name" : "VTBZV",
+    "arrivalTime" : 5920,
+    "waitingTime" : 9,
+    "anchorageBeginning" : 5929,
+    "anchorageDuration" : 905
+  }, {
+    "name" : "QCXHXNXYJ",
+    "arrivalTime" : 6651,
+    "waitingTime" : 10,
+    "anchorageBeginning" : 6661,
+    "anchorageDuration" : 279
+  }, {
+    "name" : "PLRAWZIR",
+    "arrivalTime" : 6051,
+    "waitingTime" : 9,
+    "anchorageBeginning" : 6060,
+    "anchorageDuration" : 896
+  }, {
+    "name" : "XBTJA",
+    "arrivalTime" : 6094,
+    "waitingTime" : 10,
+    "anchorageBeginning" : 6104,
+    "anchorageDuration" : 907
+  }, {
+    "name" : "AAMQA",
+    "arrivalTime" : 6698,
+    "waitingTime" : 10,
+    "anchorageBeginning" : 6708,
+    "anchorageDuration" : 318
+  }, {
+    "name" : "NBDLIFPO",
+    "arrivalTime" : 6624,
+    "waitingTime" : 10,
+    "anchorageBeginning" : 6634,
+    "anchorageDuration" : 775
+  }, {
+    "name" : "JITXJ",
+    "arrivalTime" : 6909,
+    "waitingTime" : 10,
+    "anchorageBeginning" : 6919,
+    "anchorageDuration" : 635
+  }, {
+    "name" : "WJJTSRILV",
+    "arrivalTime" : 6952,
+    "waitingTime" : 11,
+    "anchorageBeginning" : 6963,
+    "anchorageDuration" : 768
+  }, {
+    "name" : "JEN",
+    "arrivalTime" : 7755,
+    "waitingTime" : 11,
+    "anchorageBeginning" : 7766,
+    "anchorageDuration" : 387
+  }, {
+    "name" : "SHK",
+    "arrivalTime" : 8105,
+    "waitingTime" : 11,
+    "anchorageBeginning" : 8116,
+    "anchorageDuration" : 389
+  }, {
+    "name" : "OKKA",
+    "arrivalTime" : 8262,
+    "waitingTime" : 12,
+    "anchorageBeginning" : 8274,
+    "anchorageDuration" : 231
+  }, {
+    "name" : "IJNSAPI",
+    "arrivalTime" : 8166,
+    "waitingTime" : 12,
+    "anchorageBeginning" : 8178,
+    "anchorageDuration" : 504
+  }, {
+    "name" : "AJVISOD",
+    "arrivalTime" : 7875,
+    "waitingTime" : 11,
+    "anchorageBeginning" : 7886,
+    "anchorageDuration" : 945
+  }, {
+    "name" : "DWW",
+    "arrivalTime" : 7978,
+    "waitingTime" : 11,
+    "anchorageBeginning" : 7989,
+    "anchorageDuration" : 842
+  }, {
+    "name" : "XGFEIII",
+    "arrivalTime" : 7988,
+    "waitingTime" : 11,
+    "anchorageBeginning" : 7999,
+    "anchorageDuration" : 1028
+  }, {
+    "name" : "MKHONQTCF",
+    "arrivalTime" : 8101,
+    "waitingTime" : 11,
+    "anchorageBeginning" : 8112,
+    "anchorageDuration" : 1030
+  }, {
+    "name" : "YEVMRLFJ",
+    "arrivalTime" : 9048,
+    "waitingTime" : 12,
+    "anchorageBeginning" : 9060,
+    "anchorageDuration" : 162
+  }, {
+    "name" : "IAQMC",
+    "arrivalTime" : 8445,
+    "waitingTime" : 12,
+    "anchorageBeginning" : 8457,
+    "anchorageDuration" : 765
+  }, {
+    "name" : "UDR",
+    "arrivalTime" : 8111,
+    "waitingTime" : 11,
+    "anchorageBeginning" : 8122,
+    "anchorageDuration" : 1100
+  }, {
+    "name" : "UFWKYCX",
+    "arrivalTime" : 8754,
+    "waitingTime" : 12,
+    "anchorageBeginning" : 8766,
+    "anchorageDuration" : 559
+  }, {
+    "name" : "MBWFYWN",
+    "arrivalTime" : 8821,
+    "waitingTime" : 12,
+    "anchorageBeginning" : 8833,
+    "anchorageDuration" : 512
+  }, {
+    "name" : "XHIQ",
+    "arrivalTime" : 9342,
+    "waitingTime" : 13,
+    "anchorageBeginning" : 9355,
+    "anchorageDuration" : 291
+  }, {
+    "name" : "LTI",
+    "arrivalTime" : 8846,
+    "waitingTime" : 12,
+    "anchorageBeginning" : 8858,
+    "anchorageDuration" : 791
+  }, {
+    "name" : "NFA",
+    "arrivalTime" : 9467,
+    "waitingTime" : 13,
+    "anchorageBeginning" : 9480,
+    "anchorageDuration" : 175
+  }, {
+    "name" : "AAQQJKQ",
+    "arrivalTime" : 9479,
+    "waitingTime" : 13,
+    "anchorageBeginning" : 9492,
+    "anchorageDuration" : 487
+  }, {
+    "name" : "VRRA",
+    "arrivalTime" : 9314,
+    "waitingTime" : 13,
+    "anchorageBeginning" : 9327,
+    "anchorageDuration" : 653
+  }, {
+    "name" : "DXTIFDDT",
+    "arrivalTime" : 9423,
+    "waitingTime" : 13,
+    "anchorageBeginning" : 9436,
+    "anchorageDuration" : 580
+  }, {
+    "name" : "MFSKNUWDE",
+    "arrivalTime" : 9709,
+    "waitingTime" : 13,
+    "anchorageBeginning" : 9722,
+    "anchorageDuration" : 297
+  }, {
+    "name" : "NHOOPEJ",
+    "arrivalTime" : 9993,
+    "waitingTime" : 13,
+    "anchorageBeginning" : 10006,
+    "anchorageDuration" : 559
+  }, {
+    "name" : "YIEJQ",
+    "arrivalTime" : 10290,
+    "waitingTime" : 13,
+    "anchorageBeginning" : 10303,
+    "anchorageDuration" : 546
+  }, {
+    "name" : "MQVZTHQ",
+    "arrivalTime" : 9473,
+    "waitingTime" : 13,
+    "anchorageBeginning" : 9486,
+    "anchorageDuration" : 1363
+  }, {
+    "name" : "HNKZBJOZG",
+    "arrivalTime" : 9219,
+    "waitingTime" : 12,
+    "anchorageBeginning" : 9231,
+    "anchorageDuration" : 1618
+  }, {
+    "name" : "LFOWH",
+    "arrivalTime" : 10610,
+    "waitingTime" : 14,
+    "anchorageBeginning" : 10624,
+    "anchorageDuration" : 259
+  }, {
+    "name" : "HZMSSNY",
+    "arrivalTime" : 10301,
+    "waitingTime" : 14,
+    "anchorageBeginning" : 10315,
+    "anchorageDuration" : 807
+  }, {
+    "name" : "DYGJYATYI",
+    "arrivalTime" : 10727,
+    "waitingTime" : 14,
+    "anchorageBeginning" : 10741,
+    "anchorageDuration" : 499
+  }, {
+    "name" : "KWEFDZWN",
+    "arrivalTime" : 10424,
+    "waitingTime" : 14,
+    "anchorageBeginning" : 10438,
+    "anchorageDuration" : 1761
+  }, {
+    "name" : "SPDOGIHH",
+    "arrivalTime" : 11136,
+    "waitingTime" : 14,
+    "anchorageBeginning" : 11150,
+    "anchorageDuration" : 1053
+  }, {
+    "name" : "FZJWTP",
+    "arrivalTime" : 11683,
+    "waitingTime" : 15,
+    "anchorageBeginning" : 11698,
+    "anchorageDuration" : 534
+  }, {
+    "name" : "UWVANE",
+    "arrivalTime" : 11137,
+    "waitingTime" : 14,
+    "anchorageBeginning" : 11151,
+    "anchorageDuration" : 1081
+  }, {
+    "name" : "ZRSYBDEUM",
+    "arrivalTime" : 11296,
+    "waitingTime" : 15,
+    "anchorageBeginning" : 11311,
+    "anchorageDuration" : 921
+  }, {
+    "name" : "MSVBCX",
+    "arrivalTime" : 11237,
+    "waitingTime" : 14,
+    "anchorageBeginning" : 11251,
+    "anchorageDuration" : 994
+  }, {
+    "name" : "VVLXI",
+    "arrivalTime" : 12168,
+    "waitingTime" : 15,
+    "anchorageBeginning" : 12183,
+    "anchorageDuration" : 134
+  }, {
+    "name" : "LTVSNSZDA",
+    "arrivalTime" : 11248,
+    "waitingTime" : 14,
+    "anchorageBeginning" : 11262,
+    "anchorageDuration" : 1055
+  }, {
+    "name" : "ZJDEXVP",
+    "arrivalTime" : 11040,
+    "waitingTime" : 14,
+    "anchorageBeginning" : 11054,
+    "anchorageDuration" : 1271
+  }, {
+    "name" : "LTRQTPED",
+    "arrivalTime" : 11618,
+    "waitingTime" : 15,
+    "anchorageBeginning" : 11633,
+    "anchorageDuration" : 824
+  }, {
+    "name" : "ENKH",
+    "arrivalTime" : 12125,
+    "waitingTime" : 15,
+    "anchorageBeginning" : 12140,
+    "anchorageDuration" : 397
+  }, {
+    "name" : "KVC",
+    "arrivalTime" : 12405,
+    "waitingTime" : 15,
+    "anchorageBeginning" : 12420,
+    "anchorageDuration" : 398
+  }, {
+    "name" : "DRNDQJPCO",
+    "arrivalTime" : 12095,
+    "waitingTime" : 15,
+    "anchorageBeginning" : 12110,
+    "anchorageDuration" : 884
+  }, {
+    "name" : "NMEAB",
+    "arrivalTime" : 11480,
+    "waitingTime" : 15,
+    "anchorageBeginning" : 11495,
+    "anchorageDuration" : 1499
+  }, {
+    "name" : "PXGLE",
+    "arrivalTime" : 14469,
+    "waitingTime" : 17,
+    "anchorageBeginning" : 14486,
+    "anchorageDuration" : 449
+  }, {
+    "name" : "JTQY",
+    "arrivalTime" : 13866,
+    "waitingTime" : 16,
+    "anchorageBeginning" : 13882,
+    "anchorageDuration" : 1053
+  }, {
+    "name" : "PRVC",
+    "arrivalTime" : 14573,
+    "waitingTime" : 17,
+    "anchorageBeginning" : 14590,
+    "anchorageDuration" : 345
+  }, {
+    "name" : "ELYNSWKZ",
+    "arrivalTime" : 13544,
+    "waitingTime" : 16,
+    "anchorageBeginning" : 13560,
+    "anchorageDuration" : 1375
+  }, {
+    "name" : "HUBFUOPMF",
+    "arrivalTime" : 13094,
+    "waitingTime" : 16,
+    "anchorageBeginning" : 13110,
+    "anchorageDuration" : 2093
+  }, {
+    "name" : "AJHFCJC",
+    "arrivalTime" : 14295,
+    "waitingTime" : 16,
+    "anchorageBeginning" : 14311,
+    "anchorageDuration" : 913
+  }, {
+    "name" : "LCGUNT",
+    "arrivalTime" : 14662,
+    "waitingTime" : 17,
+    "anchorageBeginning" : 14679,
+    "anchorageDuration" : 545
+  }, {
+    "name" : "SLLCQ",
+    "arrivalTime" : 13730,
+    "waitingTime" : 16,
+    "anchorageBeginning" : 13746,
+    "anchorageDuration" : 1478
+  }, {
+    "name" : "WDY",
+    "arrivalTime" : 13993,
+    "waitingTime" : 16,
+    "anchorageBeginning" : 14009,
+    "anchorageDuration" : 1284
+  }, {
+    "name" : "WGCENJ",
+    "arrivalTime" : 14374,
+    "waitingTime" : 16,
+    "anchorageBeginning" : 14390,
+    "anchorageDuration" : 922
+  }, {
+    "name" : "KVLDZB",
+    "arrivalTime" : 13550,
+    "waitingTime" : 16,
+    "anchorageBeginning" : 13566,
+    "anchorageDuration" : 1895
+  }, {
+    "name" : "TBUXGEW",
+    "arrivalTime" : 15001,
+    "waitingTime" : 17,
+    "anchorageBeginning" : 15018,
+    "anchorageDuration" : 443
+  }, {
+    "name" : "QTXYWI",
+    "arrivalTime" : 15093,
+    "waitingTime" : 17,
+    "anchorageBeginning" : 15110,
+    "anchorageDuration" : 351
+  }, {
+    "name" : "ROFXGSFNF",
+    "arrivalTime" : 15141,
+    "waitingTime" : 17,
+    "anchorageBeginning" : 15158,
+    "anchorageDuration" : 303
+  }, {
+    "name" : "HGOHLCGN",
+    "arrivalTime" : 14663,
+    "waitingTime" : 17,
+    "anchorageBeginning" : 14680,
+    "anchorageDuration" : 850
+  }, {
+    "name" : "VPFIINFOB",
+    "arrivalTime" : 16594,
+    "waitingTime" : 18,
+    "anchorageBeginning" : 16612,
+    "anchorageDuration" : 224
+  }, {
+    "name" : "YRTXDU",
+    "arrivalTime" : 16277,
+    "waitingTime" : 18,
+    "anchorageBeginning" : 16295,
+    "anchorageDuration" : 541
+  }, {
+    "name" : "ZRR",
+    "arrivalTime" : 15872,
+    "waitingTime" : 17,
+    "anchorageBeginning" : 15889,
+    "anchorageDuration" : 1361
+  }, {
+    "name" : "GPCOZ",
+    "arrivalTime" : 17058,
+    "waitingTime" : 18,
+    "anchorageBeginning" : 17076,
+    "anchorageDuration" : 174
+  }, {
+    "name" : "TLPV",
+    "arrivalTime" : 16214,
+    "waitingTime" : 18,
+    "anchorageBeginning" : 16232,
+    "anchorageDuration" : 1018
+  }, {
+    "name" : "ZDCKGPM",
+    "arrivalTime" : 16698,
+    "waitingTime" : 18,
+    "anchorageBeginning" : 16716,
+    "anchorageDuration" : 534
+  }, {
+    "name" : "QCCIBWZCS",
+    "arrivalTime" : 17160,
+    "waitingTime" : 18,
+    "anchorageBeginning" : 17178,
+    "anchorageDuration" : 207
+  }, {
+    "name" : "CRDZZK",
+    "arrivalTime" : 17183,
+    "waitingTime" : 18,
+    "anchorageBeginning" : 17201,
+    "anchorageDuration" : 237
+  }, {
+    "name" : "QPGXUA",
+    "arrivalTime" : 16502,
+    "waitingTime" : 18,
+    "anchorageBeginning" : 16520,
+    "anchorageDuration" : 1465
+  }, {
+    "name" : "FSLV",
+    "arrivalTime" : 17111,
+    "waitingTime" : 18,
+    "anchorageBeginning" : 17129,
+    "anchorageDuration" : 1013
+  }, {
+    "name" : "BDHPGQIZ",
+    "arrivalTime" : 17246,
+    "waitingTime" : 19,
+    "anchorageBeginning" : 17265,
+    "anchorageDuration" : 877
+  }, {
+    "name" : "LTMDONW",
+    "arrivalTime" : 17562,
+    "waitingTime" : 19,
+    "anchorageBeginning" : 17581,
+    "anchorageDuration" : 604
+  }, {
+    "name" : "ZJIU",
+    "arrivalTime" : 17785,
+    "waitingTime" : 19,
+    "anchorageBeginning" : 17804,
+    "anchorageDuration" : 675
+  }, {
+    "name" : "OYO",
+    "arrivalTime" : 17929,
+    "waitingTime" : 19,
+    "anchorageBeginning" : 17948,
+    "anchorageDuration" : 531
+  }, {
+    "name" : "KJVZ",
+    "arrivalTime" : 18039,
+    "waitingTime" : 19,
+    "anchorageBeginning" : 18058,
+    "anchorageDuration" : 561
+  }, {
+    "name" : "IWPEML",
+    "arrivalTime" : 18520,
+    "waitingTime" : 19,
+    "anchorageBeginning" : 18539,
+    "anchorageDuration" : 467
+  }, {
+    "name" : "GYVOZVZR",
+    "arrivalTime" : 17602,
+    "waitingTime" : 19,
+    "anchorageBeginning" : 17621,
+    "anchorageDuration" : 1465
+  }, {
+    "name" : "HBHVQ",
+    "arrivalTime" : 18792,
+    "waitingTime" : 20,
+    "anchorageBeginning" : 18812,
+    "anchorageDuration" : 610
+  }, {
+    "name" : "WPQRZKP",
+    "arrivalTime" : 18630,
+    "waitingTime" : 20,
+    "anchorageBeginning" : 18650,
+    "anchorageDuration" : 840
+  }, {
+    "name" : "PSGNCQS",
+    "arrivalTime" : 19248,
+    "waitingTime" : 20,
+    "anchorageBeginning" : 19268,
+    "anchorageDuration" : 346
+  }, {
+    "name" : "BFXHD",
+    "arrivalTime" : 19749,
+    "waitingTime" : 20,
+    "anchorageBeginning" : 19769,
+    "anchorageDuration" : 1102
+  }, {
+    "name" : "UQPJU",
+    "arrivalTime" : 20801,
+    "waitingTime" : 20,
+    "anchorageBeginning" : 20821,
+    "anchorageDuration" : 166
+  }, {
+    "name" : "UGOBMBKF",
+    "arrivalTime" : 20723,
+    "waitingTime" : 20,
+    "anchorageBeginning" : 20743,
+    "anchorageDuration" : 1044
+  }, {
+    "name" : "JRNIMZH",
+    "arrivalTime" : 21430,
+    "waitingTime" : 21,
+    "anchorageBeginning" : 21451,
+    "anchorageDuration" : 483
+  }, {
+    "name" : "BKLHU",
+    "arrivalTime" : 21419,
+    "waitingTime" : 21,
+    "anchorageBeginning" : 21440,
+    "anchorageDuration" : 695
+  }, {
+    "name" : "ALQHINIX",
+    "arrivalTime" : 21118,
+    "waitingTime" : 21,
+    "anchorageBeginning" : 21139,
+    "anchorageDuration" : 1002
+  }, {
+    "name" : "VSNLIISSV",
+    "arrivalTime" : 21100,
+    "waitingTime" : 20,
+    "anchorageBeginning" : 21120,
+    "anchorageDuration" : 1126
+  }, {
+    "name" : "BUZXVZHHH",
+    "arrivalTime" : 22028,
+    "waitingTime" : 21,
+    "anchorageBeginning" : 22049,
+    "anchorageDuration" : 422
+  }, {
+    "name" : "NYCOMSY",
+    "arrivalTime" : 21593,
+    "waitingTime" : 21,
+    "anchorageBeginning" : 21614,
+    "anchorageDuration" : 857
+  }, {
+    "name" : "VOIVOH",
+    "arrivalTime" : 21566,
+    "waitingTime" : 21,
+    "anchorageBeginning" : 21587,
+    "anchorageDuration" : 884
+  }, {
+    "name" : "GUP",
+    "arrivalTime" : 21101,
+    "waitingTime" : 20,
+    "anchorageBeginning" : 21121,
+    "anchorageDuration" : 1350
+  }, {
+    "name" : "GJOXV",
+    "arrivalTime" : 21145,
+    "waitingTime" : 21,
+    "anchorageBeginning" : 21166,
+    "anchorageDuration" : 1978
+  }, {
+    "name" : "DFX",
+    "arrivalTime" : 22590,
+    "waitingTime" : 22,
+    "anchorageBeginning" : 22612,
+    "anchorageDuration" : 870
+  }, {
+    "name" : "RTXE",
+    "arrivalTime" : 22877,
+    "waitingTime" : 22,
+    "anchorageBeginning" : 22899,
+    "anchorageDuration" : 583
+  }, {
+    "name" : "YNLZ",
+    "arrivalTime" : 22038,
+    "waitingTime" : 21,
+    "anchorageBeginning" : 22059,
+    "anchorageDuration" : 1423
+  }, {
+    "name" : "JGUNVD",
+    "arrivalTime" : 23076,
+    "waitingTime" : 22,
+    "anchorageBeginning" : 23098,
+    "anchorageDuration" : 644
+  }, {
+    "name" : "ALSZWGFS",
+    "arrivalTime" : 23027,
+    "waitingTime" : 22,
+    "anchorageBeginning" : 23049,
+    "anchorageDuration" : 1154
+  }, {
+    "name" : "ONETJZARN",
+    "arrivalTime" : 23727,
+    "waitingTime" : 22,
+    "anchorageBeginning" : 23749,
+    "anchorageDuration" : 524
+  }, {
+    "name" : "NAGEAY",
+    "arrivalTime" : 23291,
+    "waitingTime" : 22,
+    "anchorageBeginning" : 23313,
+    "anchorageDuration" : 960
+  }, {
+    "name" : "CACUSC",
+    "arrivalTime" : 22456,
+    "waitingTime" : 21,
+    "anchorageBeginning" : 22477,
+    "anchorageDuration" : 1879
+  }, {
+    "name" : "UVWRIPT",
+    "arrivalTime" : 23212,
+    "waitingTime" : 22,
+    "anchorageBeginning" : 23234,
+    "anchorageDuration" : 1122
+  }, {
+    "name" : "RRQZNHM",
+    "arrivalTime" : 23640,
+    "waitingTime" : 22,
+    "anchorageBeginning" : 23662,
+    "anchorageDuration" : 694
+  }, {
+    "name" : "NHEDAQJF",
+    "arrivalTime" : 24230,
+    "waitingTime" : 23,
+    "anchorageBeginning" : 24253,
+    "anchorageDuration" : 103
+  }, {
+    "name" : "ATP",
+    "arrivalTime" : 24950,
+    "waitingTime" : 23,
+    "anchorageBeginning" : 24973,
+    "anchorageDuration" : 784
+  }, {
+    "name" : "INWY",
+    "arrivalTime" : 25480,
+    "waitingTime" : 23,
+    "anchorageBeginning" : 25503,
+    "anchorageDuration" : 319
+  }, {
+    "name" : "OIKLXFGVK",
+    "arrivalTime" : 24610,
+    "waitingTime" : 23,
+    "anchorageBeginning" : 24633,
+    "anchorageDuration" : 1529
+  }, {
+    "name" : "CYIVU",
+    "arrivalTime" : 25041,
+    "waitingTime" : 23,
+    "anchorageBeginning" : 25064,
+    "anchorageDuration" : 1718
+  }, {
+    "name" : "VQMFUCPE",
+    "arrivalTime" : 26825,
+    "waitingTime" : 23,
+    "anchorageBeginning" : 26848,
+    "anchorageDuration" : 814
+  }, {
+    "name" : "MOMJKZHCY",
+    "arrivalTime" : 26652,
+    "waitingTime" : 23,
+    "anchorageBeginning" : 26675,
+    "anchorageDuration" : 1168
+  }, {
+    "name" : "NMTTJ",
+    "arrivalTime" : 28203,
+    "waitingTime" : 24,
+    "anchorageBeginning" : 28227,
+    "anchorageDuration" : 1245
+  }, {
+    "name" : "JDLQBTR",
+    "arrivalTime" : 28946,
+    "waitingTime" : 24,
+    "anchorageBeginning" : 28970,
+    "anchorageDuration" : 563
+  }, {
+    "name" : "XZKH",
+    "arrivalTime" : 28206,
+    "waitingTime" : 24,
+    "anchorageBeginning" : 28230,
+    "anchorageDuration" : 1589
+  }, {
+    "name" : "UCSYO",
+    "arrivalTime" : 29096,
+    "waitingTime" : 24,
+    "anchorageBeginning" : 29120,
+    "anchorageDuration" : 700
+  }, {
+    "name" : "YNUZWDH",
+    "arrivalTime" : 28255,
+    "waitingTime" : 24,
+    "anchorageBeginning" : 28279,
+    "anchorageDuration" : 1541
+  }, {
+    "name" : "XYYUYFK",
+    "arrivalTime" : 29127,
+    "waitingTime" : 24,
+    "anchorageBeginning" : 29151,
+    "anchorageDuration" : 669
+  }, {
+    "name" : "MPX",
+    "arrivalTime" : 28493,
+    "waitingTime" : 24,
+    "anchorageBeginning" : 28517,
+    "anchorageDuration" : 1303
+  }, {
+    "name" : "OTTIJ",
+    "arrivalTime" : 28930,
+    "waitingTime" : 24,
+    "anchorageBeginning" : 28954,
+    "anchorageDuration" : 977
+  }, {
+    "name" : "UOPWV",
+    "arrivalTime" : 29793,
+    "waitingTime" : 25,
+    "anchorageBeginning" : 29818,
+    "anchorageDuration" : 130
+  }, {
+    "name" : "NYG",
+    "arrivalTime" : 29410,
+    "waitingTime" : 25,
+    "anchorageBeginning" : 29435,
+    "anchorageDuration" : 577
+  }, {
+    "name" : "QSQYDFUPT",
+    "arrivalTime" : 29488,
+    "waitingTime" : 25,
+    "anchorageBeginning" : 29513,
+    "anchorageDuration" : 627
+  }, {
+    "name" : "CLGR",
+    "arrivalTime" : 29314,
+    "waitingTime" : 24,
+    "anchorageBeginning" : 29338,
+    "anchorageDuration" : 859
+  }, {
+    "name" : "WJT",
+    "arrivalTime" : 30078,
+    "waitingTime" : 25,
+    "anchorageBeginning" : 30103,
+    "anchorageDuration" : 1473
+  }, {
+    "name" : "ICGQXZX",
+    "arrivalTime" : 30638,
+    "waitingTime" : 25,
+    "anchorageBeginning" : 30663,
+    "anchorageDuration" : 913
+  }, {
+    "name" : "LWW",
+    "arrivalTime" : 30439,
+    "waitingTime" : 25,
+    "anchorageBeginning" : 30464,
+    "anchorageDuration" : 1302
+  }, {
+    "name" : "FBYRNIHUA",
+    "arrivalTime" : 30691,
+    "waitingTime" : 25,
+    "anchorageBeginning" : 30716,
+    "anchorageDuration" : 1050
+  }, {
+    "name" : "KJJGAQSLK",
+    "arrivalTime" : 30313,
+    "waitingTime" : 25,
+    "anchorageBeginning" : 30338,
+    "anchorageDuration" : 1459
+  }, {
+    "name" : "IIWBMJSOR",
+    "arrivalTime" : 30876,
+    "waitingTime" : 26,
+    "anchorageBeginning" : 30902,
+    "anchorageDuration" : 895
+  }, {
+    "name" : "LQU",
+    "arrivalTime" : 31361,
+    "waitingTime" : 26,
+    "anchorageBeginning" : 31387,
+    "anchorageDuration" : 514
+  }, {
+    "name" : "YXZQSBFE",
+    "arrivalTime" : 31478,
+    "waitingTime" : 26,
+    "anchorageBeginning" : 31504,
+    "anchorageDuration" : 445
+  }, {
+    "name" : "SWDQFWHT",
+    "arrivalTime" : 31260,
+    "waitingTime" : 26,
+    "anchorageBeginning" : 31286,
+    "anchorageDuration" : 842
+  }, {
+    "name" : "DBCZUH",
+    "arrivalTime" : 32295,
+    "waitingTime" : 26,
+    "anchorageBeginning" : 32321,
+    "anchorageDuration" : 1613
+  }, {
+    "name" : "EMUSQX",
+    "arrivalTime" : 33023,
+    "waitingTime" : 27,
+    "anchorageBeginning" : 33050,
+    "anchorageDuration" : 884
+  }, {
+    "name" : "SGNE",
+    "arrivalTime" : 32331,
+    "waitingTime" : 26,
+    "anchorageBeginning" : 32357,
+    "anchorageDuration" : 1577
+  }, {
+    "name" : "FWVAIG",
+    "arrivalTime" : 33568,
+    "waitingTime" : 27,
+    "anchorageBeginning" : 33595,
+    "anchorageDuration" : 378
+  }, {
+    "name" : "OTMLHGEJ",
+    "arrivalTime" : 32465,
+    "waitingTime" : 26,
+    "anchorageBeginning" : 32491,
+    "anchorageDuration" : 1734
+  }, {
+    "name" : "UOSIF",
+    "arrivalTime" : 32244,
+    "waitingTime" : 26,
+    "anchorageBeginning" : 32270,
+    "anchorageDuration" : 1955
+  }, {
+    "name" : "UPGCGO",
+    "arrivalTime" : 33476,
+    "waitingTime" : 27,
+    "anchorageBeginning" : 33503,
+    "anchorageDuration" : 733
+  }, {
+    "name" : "RHJPWFEJR",
+    "arrivalTime" : 33319,
+    "waitingTime" : 27,
+    "anchorageBeginning" : 33346,
+    "anchorageDuration" : 890
+  }, {
+    "name" : "PZRAOG",
+    "arrivalTime" : 33590,
+    "waitingTime" : 27,
+    "anchorageBeginning" : 33617,
+    "anchorageDuration" : 661
+  }, {
+    "name" : "HXSKN",
+    "arrivalTime" : 34122,
+    "waitingTime" : 27,
+    "anchorageBeginning" : 34149,
+    "anchorageDuration" : 152
+  }, {
+    "name" : "SPBM",
+    "arrivalTime" : 34112,
+    "waitingTime" : 27,
+    "anchorageBeginning" : 34139,
+    "anchorageDuration" : 397
+  }, {
+    "name" : "WFRDN",
+    "arrivalTime" : 34431,
+    "waitingTime" : 27,
+    "anchorageBeginning" : 34458,
+    "anchorageDuration" : 193
+  }, {
+    "name" : "HFKD",
+    "arrivalTime" : 34959,
+    "waitingTime" : 28,
+    "anchorageBeginning" : 34987,
+    "anchorageDuration" : 411
+  }, {
+    "name" : "JFJGOV",
+    "arrivalTime" : 34635,
+    "waitingTime" : 28,
+    "anchorageBeginning" : 34663,
+    "anchorageDuration" : 839
+  }, {
+    "name" : "OMW",
+    "arrivalTime" : 34883,
+    "waitingTime" : 28,
+    "anchorageBeginning" : 34911,
+    "anchorageDuration" : 861
+  }, {
+    "name" : "NNR",
+    "arrivalTime" : 35140,
+    "waitingTime" : 28,
+    "anchorageBeginning" : 35168,
+    "anchorageDuration" : 637
+  }, {
+    "name" : "MRGEHZBQ",
+    "arrivalTime" : 35471,
+    "waitingTime" : 28,
+    "anchorageBeginning" : 35499,
+    "anchorageDuration" : 540
+  }, {
+    "name" : "LULUODV",
+    "arrivalTime" : 34670,
+    "waitingTime" : 28,
+    "anchorageBeginning" : 34698,
+    "anchorageDuration" : 1341
+  }, {
+    "name" : "KRYRVF",
+    "arrivalTime" : 36172,
+    "waitingTime" : 28,
+    "anchorageBeginning" : 36200,
+    "anchorageDuration" : 1390
+  }, {
+    "name" : "YDFRGPD",
+    "arrivalTime" : 37094,
+    "waitingTime" : 29,
+    "anchorageBeginning" : 37123,
+    "anchorageDuration" : 1394
+  }, {
+    "name" : "AENZF",
+    "arrivalTime" : 36613,
+    "waitingTime" : 28,
+    "anchorageBeginning" : 36641,
+    "anchorageDuration" : 1876
+  }, {
+    "name" : "YIPFJJYIC",
+    "arrivalTime" : 37775,
+    "waitingTime" : 29,
+    "anchorageBeginning" : 37804,
+    "anchorageDuration" : 795
+  }, {
+    "name" : "NRUF",
+    "arrivalTime" : 37764,
+    "waitingTime" : 29,
+    "anchorageBeginning" : 37793,
+    "anchorageDuration" : 829
+  }, {
+    "name" : "KAWUDXT",
+    "arrivalTime" : 38511,
+    "waitingTime" : 29,
+    "anchorageBeginning" : 38540,
+    "anchorageDuration" : 607
+  }, {
+    "name" : "FZGVTFY",
+    "arrivalTime" : 39138,
+    "waitingTime" : 29,
+    "anchorageBeginning" : 39167,
+    "anchorageDuration" : 438
+  }, {
+    "name" : "WIFFUOT",
+    "arrivalTime" : 38916,
+    "waitingTime" : 29,
+    "anchorageBeginning" : 38945,
+    "anchorageDuration" : 1279
+  }, {
+    "name" : "CDCOV",
+    "arrivalTime" : 39482,
+    "waitingTime" : 29,
+    "anchorageBeginning" : 39511,
+    "anchorageDuration" : 713
+  }, {
+    "name" : "PROTRD",
+    "arrivalTime" : 40558,
+    "waitingTime" : 30,
+    "anchorageBeginning" : 40588,
+    "anchorageDuration" : 964
+  }, {
+    "name" : "TERBKKLN",
+    "arrivalTime" : 40053,
+    "waitingTime" : 29,
+    "anchorageBeginning" : 40082,
+    "anchorageDuration" : 1470
+  }, {
+    "name" : "ENNEYTR",
+    "arrivalTime" : 41492,
+    "waitingTime" : 30,
+    "anchorageBeginning" : 41522,
+    "anchorageDuration" : 838
+  }, {
+    "name" : "ZYKDIBN",
+    "arrivalTime" : 40797,
+    "waitingTime" : 30,
+    "anchorageBeginning" : 40827,
+    "anchorageDuration" : 1909
+  }, {
+    "name" : "RVX",
+    "arrivalTime" : 42067,
+    "waitingTime" : 30,
+    "anchorageBeginning" : 42097,
+    "anchorageDuration" : 719
+  }, {
+    "name" : "IMMEFUG",
+    "arrivalTime" : 41521,
+    "waitingTime" : 30,
+    "anchorageBeginning" : 41551,
+    "anchorageDuration" : 1966
+  }, {
+    "name" : "UVQZQH",
+    "arrivalTime" : 42797,
+    "waitingTime" : 30,
+    "anchorageBeginning" : 42827,
+    "anchorageDuration" : 1037
+  }, {
+    "name" : "WJIDDAHNV",
+    "arrivalTime" : 42563,
+    "waitingTime" : 30,
+    "anchorageBeginning" : 42593,
+    "anchorageDuration" : 2070
+  } ],
+  "averageQueueWaiting" : 15.012,
+  "maxAnchorageDelay" : 1436,
+  "averageAnchorageDelay" : 736.236,
+  "averageQueueLength" : 0.0,
+  "fines" : [ 2200, 2000, 2000 ]
+}

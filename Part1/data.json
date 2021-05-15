@@ -1,0 +1,1842 @@
+{
+  "day" : 0,
+  "arrivalTime" : 30,
+  "shipName" : "BKS",
+  "cargo" : "liquid",
+  "amount" : 1523,
+  "anchorageTime" : 217
+}{
+  "day" : 0,
+  "arrivalTime" : 53,
+  "shipName" : "PCFLF",
+  "cargo" : "container",
+  "amount" : 4157,
+  "anchorageTime" : 831
+}{
+  "day" : 0,
+  "arrivalTime" : 622,
+  "shipName" : "JJHNLVN",
+  "cargo" : "dry",
+  "amount" : 2892,
+  "anchorageTime" : 413
+}{
+  "day" : 0,
+  "arrivalTime" : 868,
+  "shipName" : "CYN",
+  "cargo" : "container",
+  "amount" : 4944,
+  "anchorageTime" : 988
+}{
+  "day" : 0,
+  "arrivalTime" : 972,
+  "shipName" : "VKNLBZ",
+  "cargo" : "liquid",
+  "amount" : 872,
+  "anchorageTime" : 124
+}{
+  "day" : 0,
+  "arrivalTime" : 993,
+  "shipName" : "XNII",
+  "cargo" : "container",
+  "amount" : 823,
+  "anchorageTime" : 164
+}{
+  "day" : 0,
+  "arrivalTime" : 1047,
+  "shipName" : "EIGALF",
+  "cargo" : "dry",
+  "amount" : 6901,
+  "anchorageTime" : 985
+}{
+  "day" : 0,
+  "arrivalTime" : 1212,
+  "shipName" : "GGTIOON",
+  "cargo" : "dry",
+  "amount" : 1752,
+  "anchorageTime" : 250
+}{
+  "day" : 0,
+  "arrivalTime" : 1236,
+  "shipName" : "MFYLYXKXX",
+  "cargo" : "dry",
+  "amount" : 3572,
+  "anchorageTime" : 510
+}{
+  "day" : 0,
+  "arrivalTime" : 1424,
+  "shipName" : "OPNM",
+  "cargo" : "dry",
+  "amount" : 715,
+  "anchorageTime" : 102
+}{
+  "day" : 1,
+  "arrivalTime" : 14,
+  "shipName" : "KXHQZORQ",
+  "cargo" : "container",
+  "amount" : 4706,
+  "anchorageTime" : 941
+}{
+  "day" : 1,
+  "arrivalTime" : 65,
+  "shipName" : "WFFUVH",
+  "cargo" : "dry",
+  "amount" : 5616,
+  "anchorageTime" : 802
+}{
+  "day" : 1,
+  "arrivalTime" : 316,
+  "shipName" : "AORKZJBPP",
+  "cargo" : "liquid",
+  "amount" : 2544,
+  "anchorageTime" : 363
+}{
+  "day" : 1,
+  "arrivalTime" : 548,
+  "shipName" : "MKI",
+  "cargo" : "container",
+  "amount" : 4697,
+  "anchorageTime" : 939
+}{
+  "day" : 1,
+  "arrivalTime" : 599,
+  "shipName" : "LQSFF",
+  "cargo" : "liquid",
+  "amount" : 1255,
+  "anchorageTime" : 179
+}{
+  "day" : 1,
+  "arrivalTime" : 631,
+  "shipName" : "GTG",
+  "cargo" : "container",
+  "amount" : 2782,
+  "anchorageTime" : 556
+}{
+  "day" : 1,
+  "arrivalTime" : 661,
+  "shipName" : "ZKV",
+  "cargo" : "container",
+  "amount" : 3069,
+  "anchorageTime" : 613
+}{
+  "day" : 1,
+  "arrivalTime" : 1108,
+  "shipName" : "EMCW",
+  "cargo" : "liquid",
+  "amount" : 4378,
+  "anchorageTime" : 625
+}{
+  "day" : 1,
+  "arrivalTime" : 1205,
+  "shipName" : "BSSEHFG",
+  "cargo" : "dry",
+  "amount" : 7574,
+  "anchorageTime" : 1082
+}{
+  "day" : 1,
+  "arrivalTime" : 1291,
+  "shipName" : "QFEAY",
+  "cargo" : "container",
+  "amount" : 2821,
+  "anchorageTime" : 564
+}{
+  "day" : 2,
+  "arrivalTime" : 251,
+  "shipName" : "SXJBMY",
+  "cargo" : "liquid",
+  "amount" : 7942,
+  "anchorageTime" : 1134
+}{
+  "day" : 2,
+  "arrivalTime" : 295,
+  "shipName" : "HZV",
+  "cargo" : "liquid",
+  "amount" : 8307,
+  "anchorageTime" : 1186
+}{
+  "day" : 2,
+  "arrivalTime" : 471,
+  "shipName" : "DVCA",
+  "cargo" : "dry",
+  "amount" : 4169,
+  "anchorageTime" : 595
+}{
+  "day" : 2,
+  "arrivalTime" : 569,
+  "shipName" : "KASLZJZ",
+  "cargo" : "dry",
+  "amount" : 6368,
+  "anchorageTime" : 909
+}{
+  "day" : 2,
+  "arrivalTime" : 599,
+  "shipName" : "SNCVWMSP",
+  "cargo" : "liquid",
+  "amount" : 1096,
+  "anchorageTime" : 156
+}{
+  "day" : 2,
+  "arrivalTime" : 664,
+  "shipName" : "GIRYC",
+  "cargo" : "dry",
+  "amount" : 1572,
+  "anchorageTime" : 224
+}{
+  "day" : 2,
+  "arrivalTime" : 1157,
+  "shipName" : "PIMWGIA",
+  "cargo" : "liquid",
+  "amount" : 9294,
+  "anchorageTime" : 1327
+}{
+  "day" : 2,
+  "arrivalTime" : 1221,
+  "shipName" : "JMN",
+  "cargo" : "liquid",
+  "amount" : 6503,
+  "anchorageTime" : 929
+}{
+  "day" : 2,
+  "arrivalTime" : 1224,
+  "shipName" : "YIDYCKSK",
+  "cargo" : "liquid",
+  "amount" : 1741,
+  "anchorageTime" : 248
+}{
+  "day" : 3,
+  "arrivalTime" : 355,
+  "shipName" : "NRU",
+  "cargo" : "liquid",
+  "amount" : 4959,
+  "anchorageTime" : 708
+}{
+  "day" : 3,
+  "arrivalTime" : 357,
+  "shipName" : "AMDP",
+  "cargo" : "dry",
+  "amount" : 42,
+  "anchorageTime" : 6
+}{
+  "day" : 3,
+  "arrivalTime" : 378,
+  "shipName" : "FOPGUZR",
+  "cargo" : "liquid",
+  "amount" : 4173,
+  "anchorageTime" : 596
+}{
+  "day" : 3,
+  "arrivalTime" : 742,
+  "shipName" : "ABWJYRBMB",
+  "cargo" : "dry",
+  "amount" : 1604,
+  "anchorageTime" : 229
+}{
+  "day" : 3,
+  "arrivalTime" : 743,
+  "shipName" : "ESIP",
+  "cargo" : "container",
+  "amount" : 3371,
+  "anchorageTime" : 674
+}{
+  "day" : 3,
+  "arrivalTime" : 1025,
+  "shipName" : "RRGK",
+  "cargo" : "dry",
+  "amount" : 3213,
+  "anchorageTime" : 459
+}{
+  "day" : 3,
+  "arrivalTime" : 1219,
+  "shipName" : "QSXHWMA",
+  "cargo" : "liquid",
+  "amount" : 9924,
+  "anchorageTime" : 1417
+}{
+  "day" : 3,
+  "arrivalTime" : 1229,
+  "shipName" : "PAW",
+  "cargo" : "dry",
+  "amount" : 2600,
+  "anchorageTime" : 371
+}{
+  "day" : 3,
+  "arrivalTime" : 1264,
+  "shipName" : "XJML",
+  "cargo" : "liquid",
+  "amount" : 5857,
+  "anchorageTime" : 836
+}{
+  "day" : 4,
+  "arrivalTime" : 257,
+  "shipName" : "LSOVUC",
+  "cargo" : "container",
+  "amount" : 136,
+  "anchorageTime" : 27
+}{
+  "day" : 4,
+  "arrivalTime" : 423,
+  "shipName" : "QJBPAJX",
+  "cargo" : "container",
+  "amount" : 75,
+  "anchorageTime" : 15
+}{
+  "day" : 4,
+  "arrivalTime" : 652,
+  "shipName" : "ASHE",
+  "cargo" : "liquid",
+  "amount" : 8972,
+  "anchorageTime" : 1281
+}{
+  "day" : 4,
+  "arrivalTime" : 742,
+  "shipName" : "BVGPSHCRD",
+  "cargo" : "dry",
+  "amount" : 6258,
+  "anchorageTime" : 894
+}{
+  "day" : 4,
+  "arrivalTime" : 954,
+  "shipName" : "HIF",
+  "cargo" : "dry",
+  "amount" : 5324,
+  "anchorageTime" : 760
+}{
+  "day" : 4,
+  "arrivalTime" : 1168,
+  "shipName" : "OXMDK",
+  "cargo" : "liquid",
+  "amount" : 9683,
+  "anchorageTime" : 1383
+}{
+  "day" : 5,
+  "arrivalTime" : 143,
+  "shipName" : "ZFDWEMSUN",
+  "cargo" : "liquid",
+  "amount" : 1920,
+  "anchorageTime" : 274
+}{
+  "day" : 5,
+  "arrivalTime" : 158,
+  "shipName" : "CONK",
+  "cargo" : "liquid",
+  "amount" : 366,
+  "anchorageTime" : 52
+}{
+  "day" : 5,
+  "arrivalTime" : 289,
+  "shipName" : "QKJJGXM",
+  "cargo" : "dry",
+  "amount" : 9590,
+  "anchorageTime" : 1370
+}{
+  "day" : 5,
+  "arrivalTime" : 412,
+  "shipName" : "AWAT",
+  "cargo" : "container",
+  "amount" : 4625,
+  "anchorageTime" : 925
+}{
+  "day" : 5,
+  "arrivalTime" : 426,
+  "shipName" : "KWTHPI",
+  "cargo" : "liquid",
+  "amount" : 6136,
+  "anchorageTime" : 876
+}{
+  "day" : 5,
+  "arrivalTime" : 937,
+  "shipName" : "BYSE",
+  "cargo" : "liquid",
+  "amount" : 2417,
+  "anchorageTime" : 345
+}{
+  "day" : 5,
+  "arrivalTime" : 1407,
+  "shipName" : "DNONGMZ",
+  "cargo" : "liquid",
+  "amount" : 4396,
+  "anchorageTime" : 628
+}{
+  "day" : 6,
+  "arrivalTime" : 40,
+  "shipName" : "KBOSV",
+  "cargo" : "dry",
+  "amount" : 9612,
+  "anchorageTime" : 1373
+}{
+  "day" : 6,
+  "arrivalTime" : 200,
+  "shipName" : "WUKK",
+  "cargo" : "liquid",
+  "amount" : 9515,
+  "anchorageTime" : 1359
+}{
+  "day" : 6,
+  "arrivalTime" : 423,
+  "shipName" : "QYSPHD",
+  "cargo" : "liquid",
+  "amount" : 7514,
+  "anchorageTime" : 1073
+}{
+  "day" : 6,
+  "arrivalTime" : 528,
+  "shipName" : "OGM",
+  "cargo" : "liquid",
+  "amount" : 3202,
+  "anchorageTime" : 457
+}{
+  "day" : 6,
+  "arrivalTime" : 553,
+  "shipName" : "EMNVSDEAP",
+  "cargo" : "liquid",
+  "amount" : 2604,
+  "anchorageTime" : 372
+}{
+  "day" : 6,
+  "arrivalTime" : 603,
+  "shipName" : "NCLXBO",
+  "cargo" : "container",
+  "amount" : 1795,
+  "anchorageTime" : 359
+}{
+  "day" : 6,
+  "arrivalTime" : 674,
+  "shipName" : "OKVDMWIVS",
+  "cargo" : "liquid",
+  "amount" : 3817,
+  "anchorageTime" : 545
+}{
+  "day" : 6,
+  "arrivalTime" : 815,
+  "shipName" : "PNMZFK",
+  "cargo" : "liquid",
+  "amount" : 1342,
+  "anchorageTime" : 191
+}{
+  "day" : 6,
+  "arrivalTime" : 1116,
+  "shipName" : "FRKF",
+  "cargo" : "dry",
+  "amount" : 1246,
+  "anchorageTime" : 178
+}{
+  "day" : 6,
+  "arrivalTime" : 1132,
+  "shipName" : "RIEKS",
+  "cargo" : "dry",
+  "amount" : 5549,
+  "anchorageTime" : 792
+}{
+  "day" : 6,
+  "arrivalTime" : 1226,
+  "shipName" : "YZEIRC",
+  "cargo" : "container",
+  "amount" : 1893,
+  "anchorageTime" : 378
+}{
+  "day" : 6,
+  "arrivalTime" : 1313,
+  "shipName" : "SSLYWPMX",
+  "cargo" : "container",
+  "amount" : 1169,
+  "anchorageTime" : 233
+}{
+  "day" : 6,
+  "arrivalTime" : 1411,
+  "shipName" : "FEPFSE",
+  "cargo" : "container",
+  "amount" : 2057,
+  "anchorageTime" : 411
+}{
+  "day" : 7,
+  "arrivalTime" : 218,
+  "shipName" : "KGUN",
+  "cargo" : "container",
+  "amount" : 4791,
+  "anchorageTime" : 958
+}{
+  "day" : 7,
+  "arrivalTime" : 324,
+  "shipName" : "RMG",
+  "cargo" : "liquid",
+  "amount" : 6308,
+  "anchorageTime" : 901
+}{
+  "day" : 7,
+  "arrivalTime" : 558,
+  "shipName" : "WMGBON",
+  "cargo" : "dry",
+  "amount" : 7495,
+  "anchorageTime" : 1070
+}{
+  "day" : 7,
+  "arrivalTime" : 720,
+  "shipName" : "TRYAYSQF",
+  "cargo" : "dry",
+  "amount" : 8346,
+  "anchorageTime" : 1192
+}{
+  "day" : 7,
+  "arrivalTime" : 789,
+  "shipName" : "SLQGKC",
+  "cargo" : "container",
+  "amount" : 1754,
+  "anchorageTime" : 350
+}{
+  "day" : 7,
+  "arrivalTime" : 836,
+  "shipName" : "LMUMXVCW",
+  "cargo" : "liquid",
+  "amount" : 2419,
+  "anchorageTime" : 345
+}{
+  "day" : 7,
+  "arrivalTime" : 838,
+  "shipName" : "KNXFX",
+  "cargo" : "liquid",
+  "amount" : 290,
+  "anchorageTime" : 41
+}{
+  "day" : 7,
+  "arrivalTime" : 876,
+  "shipName" : "MACT",
+  "cargo" : "liquid",
+  "amount" : 4013,
+  "anchorageTime" : 573
+}{
+  "day" : 7,
+  "arrivalTime" : 910,
+  "shipName" : "KZEWJH",
+  "cargo" : "container",
+  "amount" : 61,
+  "anchorageTime" : 12
+}{
+  "day" : 7,
+  "arrivalTime" : 1085,
+  "shipName" : "HBEV",
+  "cargo" : "liquid",
+  "amount" : 4780,
+  "anchorageTime" : 682
+}{
+  "day" : 7,
+  "arrivalTime" : 1111,
+  "shipName" : "RRGBGBZHO",
+  "cargo" : "container",
+  "amount" : 1228,
+  "anchorageTime" : 245
+}{
+  "day" : 7,
+  "arrivalTime" : 1284,
+  "shipName" : "NEMPM",
+  "cargo" : "liquid",
+  "amount" : 7807,
+  "anchorageTime" : 1115
+}{
+  "day" : 7,
+  "arrivalTime" : 1384,
+  "shipName" : "ZHD",
+  "cargo" : "liquid",
+  "amount" : 8390,
+  "anchorageTime" : 1198
+}{
+  "day" : 8,
+  "arrivalTime" : 115,
+  "shipName" : "XCRZL",
+  "cargo" : "dry",
+  "amount" : 2372,
+  "anchorageTime" : 338
+}{
+  "day" : 8,
+  "arrivalTime" : 165,
+  "shipName" : "RSVJFGQF",
+  "cargo" : "container",
+  "amount" : 4567,
+  "anchorageTime" : 913
+}{
+  "day" : 8,
+  "arrivalTime" : 343,
+  "shipName" : "BUTJ",
+  "cargo" : "container",
+  "amount" : 2151,
+  "anchorageTime" : 430
+}{
+  "day" : 8,
+  "arrivalTime" : 432,
+  "shipName" : "OPIM",
+  "cargo" : "container",
+  "amount" : 4469,
+  "anchorageTime" : 893
+}{
+  "day" : 8,
+  "arrivalTime" : 686,
+  "shipName" : "PNK",
+  "cargo" : "dry",
+  "amount" : 2495,
+  "anchorageTime" : 356
+}{
+  "day" : 8,
+  "arrivalTime" : 766,
+  "shipName" : "AQKQ",
+  "cargo" : "dry",
+  "amount" : 9297,
+  "anchorageTime" : 1328
+}{
+  "day" : 8,
+  "arrivalTime" : 767,
+  "shipName" : "HXZQXOI",
+  "cargo" : "container",
+  "amount" : 2904,
+  "anchorageTime" : 580
+}{
+  "day" : 8,
+  "arrivalTime" : 894,
+  "shipName" : "XCYLJAHP",
+  "cargo" : "container",
+  "amount" : 2383,
+  "anchorageTime" : 476
+}{
+  "day" : 9,
+  "arrivalTime" : 71,
+  "shipName" : "GATWLUVHK",
+  "cargo" : "liquid",
+  "amount" : 3120,
+  "anchorageTime" : 445
+}{
+  "day" : 9,
+  "arrivalTime" : 512,
+  "shipName" : "TICQDFW",
+  "cargo" : "dry",
+  "amount" : 9497,
+  "anchorageTime" : 1356
+}{
+  "day" : 9,
+  "arrivalTime" : 554,
+  "shipName" : "HYCFP",
+  "cargo" : "liquid",
+  "amount" : 453,
+  "anchorageTime" : 64
+}{
+  "day" : 9,
+  "arrivalTime" : 605,
+  "shipName" : "QRMRRL",
+  "cargo" : "container",
+  "amount" : 2803,
+  "anchorageTime" : 560
+}{
+  "day" : 9,
+  "arrivalTime" : 810,
+  "shipName" : "NQCEKCBUT",
+  "cargo" : "container",
+  "amount" : 867,
+  "anchorageTime" : 173
+}{
+  "day" : 9,
+  "arrivalTime" : 873,
+  "shipName" : "CVSKVW",
+  "cargo" : "dry",
+  "amount" : 8152,
+  "anchorageTime" : 1164
+}{
+  "day" : 9,
+  "arrivalTime" : 926,
+  "shipName" : "OJWAQS",
+  "cargo" : "liquid",
+  "amount" : 7104,
+  "anchorageTime" : 1014
+}{
+  "day" : 9,
+  "arrivalTime" : 941,
+  "shipName" : "KHQX",
+  "cargo" : "liquid",
+  "amount" : 6712,
+  "anchorageTime" : 958
+}{
+  "day" : 9,
+  "arrivalTime" : 1229,
+  "shipName" : "NNCZNP",
+  "cargo" : "dry",
+  "amount" : 7426,
+  "anchorageTime" : 1060
+}{
+  "day" : 9,
+  "arrivalTime" : 1354,
+  "shipName" : "DUFHG",
+  "cargo" : "dry",
+  "amount" : 5406,
+  "anchorageTime" : 772
+}{
+  "day" : 9,
+  "arrivalTime" : 1408,
+  "shipName" : "ZLY",
+  "cargo" : "dry",
+  "amount" : 863,
+  "anchorageTime" : 123
+}{
+  "day" : 10,
+  "arrivalTime" : 514,
+  "shipName" : "NKN",
+  "cargo" : "dry",
+  "amount" : 6669,
+  "anchorageTime" : 952
+}{
+  "day" : 10,
+  "arrivalTime" : 547,
+  "shipName" : "KXFAELL",
+  "cargo" : "container",
+  "amount" : 4702,
+  "anchorageTime" : 940
+}{
+  "day" : 10,
+  "arrivalTime" : 602,
+  "shipName" : "QIHEEHMV",
+  "cargo" : "liquid",
+  "amount" : 6210,
+  "anchorageTime" : 887
+}{
+  "day" : 10,
+  "arrivalTime" : 816,
+  "shipName" : "FEWZUB",
+  "cargo" : "container",
+  "amount" : 1700,
+  "anchorageTime" : 340
+}{
+  "day" : 10,
+  "arrivalTime" : 1355,
+  "shipName" : "EKLSA",
+  "cargo" : "liquid",
+  "amount" : 381,
+  "anchorageTime" : 54
+}{
+  "day" : 11,
+  "arrivalTime" : 703,
+  "shipName" : "CGXZ",
+  "cargo" : "liquid",
+  "amount" : 8126,
+  "anchorageTime" : 1160
+}{
+  "day" : 11,
+  "arrivalTime" : 752,
+  "shipName" : "SAPVMVA",
+  "cargo" : "dry",
+  "amount" : 9199,
+  "anchorageTime" : 1314
+}{
+  "day" : 11,
+  "arrivalTime" : 758,
+  "shipName" : "AGLF",
+  "cargo" : "liquid",
+  "amount" : 4321,
+  "anchorageTime" : 617
+}{
+  "day" : 11,
+  "arrivalTime" : 841,
+  "shipName" : "SYB",
+  "cargo" : "container",
+  "amount" : 4291,
+  "anchorageTime" : 858
+}{
+  "day" : 11,
+  "arrivalTime" : 900,
+  "shipName" : "NADFDNLHN",
+  "cargo" : "liquid",
+  "amount" : 9304,
+  "anchorageTime" : 1329
+}{
+  "day" : 11,
+  "arrivalTime" : 1073,
+  "shipName" : "DKAYW",
+  "cargo" : "container",
+  "amount" : 1450,
+  "anchorageTime" : 290
+}{
+  "day" : 12,
+  "arrivalTime" : 63,
+  "shipName" : "DIH",
+  "cargo" : "container",
+  "amount" : 740,
+  "anchorageTime" : 148
+}{
+  "day" : 12,
+  "arrivalTime" : 187,
+  "shipName" : "ZTHO",
+  "cargo" : "dry",
+  "amount" : 9910,
+  "anchorageTime" : 1415
+}{
+  "day" : 12,
+  "arrivalTime" : 190,
+  "shipName" : "WSQ",
+  "cargo" : "container",
+  "amount" : 4441,
+  "anchorageTime" : 888
+}{
+  "day" : 12,
+  "arrivalTime" : 509,
+  "shipName" : "ZOKCVEIN",
+  "cargo" : "dry",
+  "amount" : 4982,
+  "anchorageTime" : 711
+}{
+  "day" : 12,
+  "arrivalTime" : 509,
+  "shipName" : "KKTEQUJ",
+  "cargo" : "liquid",
+  "amount" : 5613,
+  "anchorageTime" : 801
+}{
+  "day" : 12,
+  "arrivalTime" : 980,
+  "shipName" : "XRYFQXIG",
+  "cargo" : "liquid",
+  "amount" : 8280,
+  "anchorageTime" : 1182
+}{
+  "day" : 12,
+  "arrivalTime" : 1017,
+  "shipName" : "LPOEJ",
+  "cargo" : "container",
+  "amount" : 197,
+  "anchorageTime" : 39
+}{
+  "day" : 12,
+  "arrivalTime" : 1068,
+  "shipName" : "ZJPBWX",
+  "cargo" : "container",
+  "amount" : 4883,
+  "anchorageTime" : 976
+}{
+  "day" : 12,
+  "arrivalTime" : 1072,
+  "shipName" : "ESGUEMZKU",
+  "cargo" : "liquid",
+  "amount" : 2774,
+  "anchorageTime" : 396
+}{
+  "day" : 12,
+  "arrivalTime" : 1174,
+  "shipName" : "VRRGOIAPY",
+  "cargo" : "container",
+  "amount" : 2328,
+  "anchorageTime" : 465
+}{
+  "day" : 12,
+  "arrivalTime" : 1274,
+  "shipName" : "EKB",
+  "cargo" : "dry",
+  "amount" : 2960,
+  "anchorageTime" : 422
+}{
+  "day" : 13,
+  "arrivalTime" : 380,
+  "shipName" : "WISV",
+  "cargo" : "liquid",
+  "amount" : 1010,
+  "anchorageTime" : 144
+}{
+  "day" : 13,
+  "arrivalTime" : 443,
+  "shipName" : "CNDKVGGMG",
+  "cargo" : "liquid",
+  "amount" : 2694,
+  "anchorageTime" : 384
+}{
+  "day" : 13,
+  "arrivalTime" : 480,
+  "shipName" : "XUK",
+  "cargo" : "container",
+  "amount" : 2670,
+  "anchorageTime" : 534
+}{
+  "day" : 13,
+  "arrivalTime" : 504,
+  "shipName" : "WQFXFQQX",
+  "cargo" : "dry",
+  "amount" : 6929,
+  "anchorageTime" : 989
+}{
+  "day" : 13,
+  "arrivalTime" : 524,
+  "shipName" : "TUSOY",
+  "cargo" : "container",
+  "amount" : 995,
+  "anchorageTime" : 199
+}{
+  "day" : 13,
+  "arrivalTime" : 968,
+  "shipName" : "LUPVKQ",
+  "cargo" : "dry",
+  "amount" : 4102,
+  "anchorageTime" : 586
+}{
+  "day" : 13,
+  "arrivalTime" : 973,
+  "shipName" : "RPCS",
+  "cargo" : "liquid",
+  "amount" : 5014,
+  "anchorageTime" : 716
+}{
+  "day" : 13,
+  "arrivalTime" : 1401,
+  "shipName" : "PJJIY",
+  "cargo" : "container",
+  "amount" : 3311,
+  "anchorageTime" : 662
+}{
+  "day" : 13,
+  "arrivalTime" : 1438,
+  "shipName" : "CBGKC",
+  "cargo" : "liquid",
+  "amount" : 9964,
+  "anchorageTime" : 1423
+}{
+  "day" : 13,
+  "arrivalTime" : 1438,
+  "shipName" : "SPM",
+  "cargo" : "liquid",
+  "amount" : 3053,
+  "anchorageTime" : 436
+}{
+  "day" : 14,
+  "arrivalTime" : 61,
+  "shipName" : "IXPWVY",
+  "cargo" : "container",
+  "amount" : 356,
+  "anchorageTime" : 71
+}{
+  "day" : 14,
+  "arrivalTime" : 103,
+  "shipName" : "QFARTO",
+  "cargo" : "container",
+  "amount" : 19,
+  "anchorageTime" : 3
+}{
+  "day" : 14,
+  "arrivalTime" : 131,
+  "shipName" : "RODRYDGSZ",
+  "cargo" : "container",
+  "amount" : 1501,
+  "anchorageTime" : 300
+}{
+  "day" : 14,
+  "arrivalTime" : 306,
+  "shipName" : "JJCYAD",
+  "cargo" : "dry",
+  "amount" : 108,
+  "anchorageTime" : 15
+}{
+  "day" : 14,
+  "arrivalTime" : 371,
+  "shipName" : "VSSQBZ",
+  "cargo" : "container",
+  "amount" : 1855,
+  "anchorageTime" : 371
+}{
+  "day" : 14,
+  "arrivalTime" : 614,
+  "shipName" : "FDUMIXEM",
+  "cargo" : "liquid",
+  "amount" : 914,
+  "anchorageTime" : 130
+}{
+  "day" : 14,
+  "arrivalTime" : 668,
+  "shipName" : "QBCKWUY",
+  "cargo" : "liquid",
+  "amount" : 136,
+  "anchorageTime" : 19
+}{
+  "day" : 14,
+  "arrivalTime" : 842,
+  "shipName" : "HAAADANL",
+  "cargo" : "dry",
+  "amount" : 1333,
+  "anchorageTime" : 190
+}{
+  "day" : 14,
+  "arrivalTime" : 1219,
+  "shipName" : "XINLEHM",
+  "cargo" : "dry",
+  "amount" : 418,
+  "anchorageTime" : 59
+}{
+  "day" : 15,
+  "arrivalTime" : 94,
+  "shipName" : "JMLNMXQU",
+  "cargo" : "liquid",
+  "amount" : 4934,
+  "anchorageTime" : 704
+}{
+  "day" : 15,
+  "arrivalTime" : 245,
+  "shipName" : "KGGGBW",
+  "cargo" : "container",
+  "amount" : 2751,
+  "anchorageTime" : 550
+}{
+  "day" : 15,
+  "arrivalTime" : 267,
+  "shipName" : "UKXO",
+  "cargo" : "liquid",
+  "amount" : 909,
+  "anchorageTime" : 129
+}{
+  "day" : 15,
+  "arrivalTime" : 313,
+  "shipName" : "QUFXH",
+  "cargo" : "dry",
+  "amount" : 2504,
+  "anchorageTime" : 357
+}{
+  "day" : 15,
+  "arrivalTime" : 404,
+  "shipName" : "NYX",
+  "cargo" : "dry",
+  "amount" : 1266,
+  "anchorageTime" : 180
+}{
+  "day" : 15,
+  "arrivalTime" : 528,
+  "shipName" : "IKB",
+  "cargo" : "container",
+  "amount" : 4999,
+  "anchorageTime" : 999
+}{
+  "day" : 15,
+  "arrivalTime" : 600,
+  "shipName" : "TGBHEOAX",
+  "cargo" : "container",
+  "amount" : 460,
+  "anchorageTime" : 92
+}{
+  "day" : 15,
+  "arrivalTime" : 607,
+  "shipName" : "LFBHO",
+  "cargo" : "liquid",
+  "amount" : 3435,
+  "anchorageTime" : 490
+}{
+  "day" : 15,
+  "arrivalTime" : 638,
+  "shipName" : "EFOHKZ",
+  "cargo" : "dry",
+  "amount" : 5898,
+  "anchorageTime" : 842
+}{
+  "day" : 15,
+  "arrivalTime" : 662,
+  "shipName" : "WPLUQVXYM",
+  "cargo" : "container",
+  "amount" : 4939,
+  "anchorageTime" : 987
+}{
+  "day" : 15,
+  "arrivalTime" : 838,
+  "shipName" : "HHADHX",
+  "cargo" : "dry",
+  "amount" : 1897,
+  "anchorageTime" : 271
+}{
+  "day" : 15,
+  "arrivalTime" : 1044,
+  "shipName" : "NNZLHZE",
+  "cargo" : "container",
+  "amount" : 4826,
+  "anchorageTime" : 965
+}{
+  "day" : 16,
+  "arrivalTime" : 955,
+  "shipName" : "YRTKVT",
+  "cargo" : "container",
+  "amount" : 4647,
+  "anchorageTime" : 929
+}{
+  "day" : 16,
+  "arrivalTime" : 1276,
+  "shipName" : "RDCSFEG",
+  "cargo" : "liquid",
+  "amount" : 5722,
+  "anchorageTime" : 817
+}{
+  "day" : 16,
+  "arrivalTime" : 1406,
+  "shipName" : "RGWHFXE",
+  "cargo" : "liquid",
+  "amount" : 6925,
+  "anchorageTime" : 989
+}{
+  "day" : 17,
+  "arrivalTime" : 499,
+  "shipName" : "ZYHW",
+  "cargo" : "container",
+  "amount" : 121,
+  "anchorageTime" : 24
+}{
+  "day" : 17,
+  "arrivalTime" : 618,
+  "shipName" : "BYJ",
+  "cargo" : "liquid",
+  "amount" : 9159,
+  "anchorageTime" : 1308
+}{
+  "day" : 17,
+  "arrivalTime" : 1271,
+  "shipName" : "JLZRRA",
+  "cargo" : "container",
+  "amount" : 1120,
+  "anchorageTime" : 224
+}{
+  "day" : 17,
+  "arrivalTime" : 1285,
+  "shipName" : "HEP",
+  "cargo" : "dry",
+  "amount" : 8573,
+  "anchorageTime" : 1224
+}{
+  "day" : 17,
+  "arrivalTime" : 1319,
+  "shipName" : "SDC",
+  "cargo" : "container",
+  "amount" : 904,
+  "anchorageTime" : 180
+}{
+  "day" : 18,
+  "arrivalTime" : 265,
+  "shipName" : "HFNAJVPM",
+  "cargo" : "liquid",
+  "amount" : 201,
+  "anchorageTime" : 28
+}{
+  "day" : 18,
+  "arrivalTime" : 369,
+  "shipName" : "XSIX",
+  "cargo" : "liquid",
+  "amount" : 1365,
+  "anchorageTime" : 195
+}{
+  "day" : 18,
+  "arrivalTime" : 552,
+  "shipName" : "ZQRP",
+  "cargo" : "liquid",
+  "amount" : 8602,
+  "anchorageTime" : 1228
+}{
+  "day" : 18,
+  "arrivalTime" : 595,
+  "shipName" : "SFOH",
+  "cargo" : "container",
+  "amount" : 2387,
+  "anchorageTime" : 477
+}{
+  "day" : 18,
+  "arrivalTime" : 779,
+  "shipName" : "CPUELI",
+  "cargo" : "liquid",
+  "amount" : 618,
+  "anchorageTime" : 88
+}{
+  "day" : 18,
+  "arrivalTime" : 1052,
+  "shipName" : "VWINF",
+  "cargo" : "container",
+  "amount" : 1846,
+  "anchorageTime" : 369
+}{
+  "day" : 18,
+  "arrivalTime" : 1058,
+  "shipName" : "PPWC",
+  "cargo" : "liquid",
+  "amount" : 6799,
+  "anchorageTime" : 971
+}{
+  "day" : 18,
+  "arrivalTime" : 1079,
+  "shipName" : "RUOOKXQL",
+  "cargo" : "liquid",
+  "amount" : 8944,
+  "anchorageTime" : 1277
+}{
+  "day" : 18,
+  "arrivalTime" : 1104,
+  "shipName" : "TQEMVMA",
+  "cargo" : "liquid",
+  "amount" : 7721,
+  "anchorageTime" : 1103
+}{
+  "day" : 18,
+  "arrivalTime" : 1117,
+  "shipName" : "CGHRBLBYD",
+  "cargo" : "liquid",
+  "amount" : 6675,
+  "anchorageTime" : 953
+}{
+  "day" : 18,
+  "arrivalTime" : 1142,
+  "shipName" : "PMHEKCC",
+  "cargo" : "liquid",
+  "amount" : 8206,
+  "anchorageTime" : 1172
+}{
+  "day" : 18,
+  "arrivalTime" : 1264,
+  "shipName" : "OXIFXS",
+  "cargo" : "liquid",
+  "amount" : 3434,
+  "anchorageTime" : 490
+}{
+  "day" : 18,
+  "arrivalTime" : 1339,
+  "shipName" : "BHHUGCIM",
+  "cargo" : "liquid",
+  "amount" : 9212,
+  "anchorageTime" : 1316
+}{
+  "day" : 19,
+  "arrivalTime" : 95,
+  "shipName" : "VLK",
+  "cargo" : "liquid",
+  "amount" : 8241,
+  "anchorageTime" : 1177
+}{
+  "day" : 19,
+  "arrivalTime" : 136,
+  "shipName" : "UPWBIOD",
+  "cargo" : "liquid",
+  "amount" : 3254,
+  "anchorageTime" : 464
+}{
+  "day" : 19,
+  "arrivalTime" : 302,
+  "shipName" : "MKP",
+  "cargo" : "dry",
+  "amount" : 2175,
+  "anchorageTime" : 310
+}{
+  "day" : 19,
+  "arrivalTime" : 1057,
+  "shipName" : "QKFWW",
+  "cargo" : "dry",
+  "amount" : 7674,
+  "anchorageTime" : 1096
+}{
+  "day" : 19,
+  "arrivalTime" : 1234,
+  "shipName" : "OOF",
+  "cargo" : "dry",
+  "amount" : 5597,
+  "anchorageTime" : 799
+}{
+  "day" : 19,
+  "arrivalTime" : 1386,
+  "shipName" : "INFDGJP",
+  "cargo" : "liquid",
+  "amount" : 4898,
+  "anchorageTime" : 699
+}{
+  "day" : 20,
+  "arrivalTime" : 120,
+  "shipName" : "BAUAE",
+  "cargo" : "liquid",
+  "amount" : 5749,
+  "anchorageTime" : 821
+}{
+  "day" : 20,
+  "arrivalTime" : 123,
+  "shipName" : "EXJHPOWPJ",
+  "cargo" : "liquid",
+  "amount" : 3749,
+  "anchorageTime" : 535
+}{
+  "day" : 20,
+  "arrivalTime" : 136,
+  "shipName" : "HNAHJUU",
+  "cargo" : "liquid",
+  "amount" : 6647,
+  "anchorageTime" : 949
+}{
+  "day" : 20,
+  "arrivalTime" : 480,
+  "shipName" : "VFIRGSWIC",
+  "cargo" : "container",
+  "amount" : 1838,
+  "anchorageTime" : 367
+}{
+  "day" : 20,
+  "arrivalTime" : 614,
+  "shipName" : "VVVQ",
+  "cargo" : "container",
+  "amount" : 1054,
+  "anchorageTime" : 210
+}{
+  "day" : 20,
+  "arrivalTime" : 814,
+  "shipName" : "JIHIPFP",
+  "cargo" : "dry",
+  "amount" : 2877,
+  "anchorageTime" : 411
+}{
+  "day" : 21,
+  "arrivalTime" : 108,
+  "shipName" : "MAJ",
+  "cargo" : "container",
+  "amount" : 2133,
+  "anchorageTime" : 426
+}{
+  "day" : 21,
+  "arrivalTime" : 336,
+  "shipName" : "JXBBTAD",
+  "cargo" : "container",
+  "amount" : 1216,
+  "anchorageTime" : 243
+}{
+  "day" : 21,
+  "arrivalTime" : 347,
+  "shipName" : "PSBRF",
+  "cargo" : "liquid",
+  "amount" : 2505,
+  "anchorageTime" : 357
+}{
+  "day" : 21,
+  "arrivalTime" : 803,
+  "shipName" : "YYLEY",
+  "cargo" : "container",
+  "amount" : 4413,
+  "anchorageTime" : 882
+}{
+  "day" : 21,
+  "arrivalTime" : 1268,
+  "shipName" : "PMGH",
+  "cargo" : "liquid",
+  "amount" : 3708,
+  "anchorageTime" : 529
+}{
+  "day" : 21,
+  "arrivalTime" : 1375,
+  "shipName" : "BGWKQBNKX",
+  "cargo" : "dry",
+  "amount" : 3151,
+  "anchorageTime" : 450
+}{
+  "day" : 22,
+  "arrivalTime" : 99,
+  "shipName" : "LTFUFI",
+  "cargo" : "dry",
+  "amount" : 9370,
+  "anchorageTime" : 1338
+}{
+  "day" : 22,
+  "arrivalTime" : 423,
+  "shipName" : "JYTB",
+  "cargo" : "dry",
+  "amount" : 2368,
+  "anchorageTime" : 338
+}{
+  "day" : 22,
+  "arrivalTime" : 492,
+  "shipName" : "PZCBGX",
+  "cargo" : "dry",
+  "amount" : 7072,
+  "anchorageTime" : 1010
+}{
+  "day" : 22,
+  "arrivalTime" : 652,
+  "shipName" : "YKG",
+  "cargo" : "dry",
+  "amount" : 81,
+  "anchorageTime" : 11
+}{
+  "day" : 22,
+  "arrivalTime" : 697,
+  "shipName" : "NGIKEUZMV",
+  "cargo" : "dry",
+  "amount" : 8826,
+  "anchorageTime" : 1260
+}{
+  "day" : 22,
+  "arrivalTime" : 872,
+  "shipName" : "PHDMAC",
+  "cargo" : "liquid",
+  "amount" : 3460,
+  "anchorageTime" : 494
+}{
+  "day" : 22,
+  "arrivalTime" : 961,
+  "shipName" : "TDBZKXN",
+  "cargo" : "liquid",
+  "amount" : 7960,
+  "anchorageTime" : 1137
+}{
+  "day" : 22,
+  "arrivalTime" : 971,
+  "shipName" : "OUEWESFOI",
+  "cargo" : "container",
+  "amount" : 550,
+  "anchorageTime" : 110
+}{
+  "day" : 22,
+  "arrivalTime" : 1104,
+  "shipName" : "TKKQB",
+  "cargo" : "dry",
+  "amount" : 3089,
+  "anchorageTime" : 441
+}{
+  "day" : 22,
+  "arrivalTime" : 1137,
+  "shipName" : "MZOUMHAER",
+  "cargo" : "dry",
+  "amount" : 6272,
+  "anchorageTime" : 896
+}{
+  "day" : 22,
+  "arrivalTime" : 1185,
+  "shipName" : "JLFKUHT",
+  "cargo" : "liquid",
+  "amount" : 7361,
+  "anchorageTime" : 1051
+}{
+  "day" : 22,
+  "arrivalTime" : 1377,
+  "shipName" : "DVFSRBGW",
+  "cargo" : "dry",
+  "amount" : 7766,
+  "anchorageTime" : 1109
+}{
+  "day" : 23,
+  "arrivalTime" : 45,
+  "shipName" : "PYNETLQ",
+  "cargo" : "container",
+  "amount" : 3280,
+  "anchorageTime" : 656
+}{
+  "day" : 23,
+  "arrivalTime" : 120,
+  "shipName" : "QUXTDTOG",
+  "cargo" : "container",
+  "amount" : 1636,
+  "anchorageTime" : 327
+}{
+  "day" : 23,
+  "arrivalTime" : 562,
+  "shipName" : "WUMQJQVHC",
+  "cargo" : "container",
+  "amount" : 1669,
+  "anchorageTime" : 333
+}{
+  "day" : 23,
+  "arrivalTime" : 587,
+  "shipName" : "NXMTRDI",
+  "cargo" : "dry",
+  "amount" : 5877,
+  "anchorageTime" : 839
+}{
+  "day" : 23,
+  "arrivalTime" : 644,
+  "shipName" : "JLKN",
+  "cargo" : "dry",
+  "amount" : 3989,
+  "anchorageTime" : 569
+}{
+  "day" : 23,
+  "arrivalTime" : 1101,
+  "shipName" : "QOOEADALN",
+  "cargo" : "liquid",
+  "amount" : 6632,
+  "anchorageTime" : 947
+}{
+  "day" : 24,
+  "arrivalTime" : 57,
+  "shipName" : "JCJXFQ",
+  "cargo" : "container",
+  "amount" : 3050,
+  "anchorageTime" : 610
+}{
+  "day" : 24,
+  "arrivalTime" : 135,
+  "shipName" : "HZAORYME",
+  "cargo" : "container",
+  "amount" : 4707,
+  "anchorageTime" : 941
+}{
+  "day" : 24,
+  "arrivalTime" : 405,
+  "shipName" : "XKVVTX",
+  "cargo" : "dry",
+  "amount" : 6921,
+  "anchorageTime" : 988
+}{
+  "day" : 24,
+  "arrivalTime" : 613,
+  "shipName" : "NKUPQIH",
+  "cargo" : "dry",
+  "amount" : 4272,
+  "anchorageTime" : 610
+}{
+  "day" : 24,
+  "arrivalTime" : 629,
+  "shipName" : "CDAKJ",
+  "cargo" : "container",
+  "amount" : 1309,
+  "anchorageTime" : 261
+}{
+  "day" : 24,
+  "arrivalTime" : 636,
+  "shipName" : "IVUWGPQRB",
+  "cargo" : "dry",
+  "amount" : 9553,
+  "anchorageTime" : 1364
+}{
+  "day" : 24,
+  "arrivalTime" : 892,
+  "shipName" : "JMMDOH",
+  "cargo" : "liquid",
+  "amount" : 7720,
+  "anchorageTime" : 1102
+}{
+  "day" : 24,
+  "arrivalTime" : 1037,
+  "shipName" : "ZLMUV",
+  "cargo" : "container",
+  "amount" : 3377,
+  "anchorageTime" : 675
+}{
+  "day" : 25,
+  "arrivalTime" : 517,
+  "shipName" : "PDLUYPXCJ",
+  "cargo" : "liquid",
+  "amount" : 3272,
+  "anchorageTime" : 467
+}{
+  "day" : 25,
+  "arrivalTime" : 617,
+  "shipName" : "OPERFDOFW",
+  "cargo" : "dry",
+  "amount" : 9825,
+  "anchorageTime" : 1403
+}{
+  "day" : 25,
+  "arrivalTime" : 642,
+  "shipName" : "LVN",
+  "cargo" : "dry",
+  "amount" : 4529,
+  "anchorageTime" : 647
+}{
+  "day" : 25,
+  "arrivalTime" : 772,
+  "shipName" : "IJFYDLV",
+  "cargo" : "container",
+  "amount" : 3891,
+  "anchorageTime" : 778
+}{
+  "day" : 25,
+  "arrivalTime" : 827,
+  "shipName" : "CUZSLD",
+  "cargo" : "container",
+  "amount" : 138,
+  "anchorageTime" : 27
+}{
+  "day" : 25,
+  "arrivalTime" : 963,
+  "shipName" : "GXK",
+  "cargo" : "liquid",
+  "amount" : 7811,
+  "anchorageTime" : 1115
+}{
+  "day" : 25,
+  "arrivalTime" : 1244,
+  "shipName" : "RRWU",
+  "cargo" : "dry",
+  "amount" : 1644,
+  "anchorageTime" : 234
+}{
+  "day" : 25,
+  "arrivalTime" : 1332,
+  "shipName" : "GCFG",
+  "cargo" : "liquid",
+  "amount" : 5963,
+  "anchorageTime" : 851
+}{
+  "day" : 25,
+  "arrivalTime" : 1361,
+  "shipName" : "MCOD",
+  "cargo" : "liquid",
+  "amount" : 1654,
+  "anchorageTime" : 236
+}{
+  "day" : 25,
+  "arrivalTime" : 1402,
+  "shipName" : "SBNGPODD",
+  "cargo" : "dry",
+  "amount" : 5137,
+  "anchorageTime" : 733
+}{
+  "day" : 26,
+  "arrivalTime" : 93,
+  "shipName" : "GMQ",
+  "cargo" : "dry",
+  "amount" : 3388,
+  "anchorageTime" : 484
+}{
+  "day" : 26,
+  "arrivalTime" : 160,
+  "shipName" : "PSQRWN",
+  "cargo" : "dry",
+  "amount" : 459,
+  "anchorageTime" : 65
+}{
+  "day" : 26,
+  "arrivalTime" : 656,
+  "shipName" : "ZKC",
+  "cargo" : "dry",
+  "amount" : 7555,
+  "anchorageTime" : 1079
+}{
+  "day" : 26,
+  "arrivalTime" : 811,
+  "shipName" : "KXND",
+  "cargo" : "dry",
+  "amount" : 9376,
+  "anchorageTime" : 1339
+}{
+  "day" : 26,
+  "arrivalTime" : 975,
+  "shipName" : "TKB",
+  "cargo" : "container",
+  "amount" : 533,
+  "anchorageTime" : 106
+}{
+  "day" : 26,
+  "arrivalTime" : 1149,
+  "shipName" : "GDIEYL",
+  "cargo" : "liquid",
+  "amount" : 7824,
+  "anchorageTime" : 1117
+}{
+  "day" : 26,
+  "arrivalTime" : 1286,
+  "shipName" : "NPJV",
+  "cargo" : "container",
+  "amount" : 4551,
+  "anchorageTime" : 910
+}{
+  "day" : 26,
+  "arrivalTime" : 1389,
+  "shipName" : "FSHVPHPPZ",
+  "cargo" : "dry",
+  "amount" : 9639,
+  "anchorageTime" : 1377
+}{
+  "day" : 26,
+  "arrivalTime" : 1409,
+  "shipName" : "BIYBAHY",
+  "cargo" : "container",
+  "amount" : 871,
+  "anchorageTime" : 174
+}{
+  "day" : 27,
+  "arrivalTime" : 254,
+  "shipName" : "IZWZ",
+  "cargo" : "container",
+  "amount" : 2611,
+  "anchorageTime" : 522
+}{
+  "day" : 27,
+  "arrivalTime" : 296,
+  "shipName" : "SWDZD",
+  "cargo" : "container",
+  "amount" : 18,
+  "anchorageTime" : 3
+}{
+  "day" : 27,
+  "arrivalTime" : 452,
+  "shipName" : "BBMI",
+  "cargo" : "dry",
+  "amount" : 7096,
+  "anchorageTime" : 1013
+}{
+  "day" : 27,
+  "arrivalTime" : 887,
+  "shipName" : "JGDBLBVW",
+  "cargo" : "container",
+  "amount" : 2537,
+  "anchorageTime" : 507
+}{
+  "day" : 27,
+  "arrivalTime" : 915,
+  "shipName" : "QTDSNBJT",
+  "cargo" : "container",
+  "amount" : 2462,
+  "anchorageTime" : 492
+}{
+  "day" : 27,
+  "arrivalTime" : 948,
+  "shipName" : "JHSAZNLD",
+  "cargo" : "liquid",
+  "amount" : 1480,
+  "anchorageTime" : 211
+}{
+  "day" : 27,
+  "arrivalTime" : 948,
+  "shipName" : "OKTGLYFN",
+  "cargo" : "container",
+  "amount" : 607,
+  "anchorageTime" : 121
+}{
+  "day" : 27,
+  "arrivalTime" : 1105,
+  "shipName" : "MCMAOTDNA",
+  "cargo" : "container",
+  "amount" : 3313,
+  "anchorageTime" : 662
+}{
+  "day" : 27,
+  "arrivalTime" : 1330,
+  "shipName" : "LYDN",
+  "cargo" : "dry",
+  "amount" : 7686,
+  "anchorageTime" : 1098
+}{
+  "day" : 27,
+  "arrivalTime" : 1388,
+  "shipName" : "KVGVTSY",
+  "cargo" : "liquid",
+  "amount" : 2472,
+  "anchorageTime" : 353
+}{
+  "day" : 28,
+  "arrivalTime" : 168,
+  "shipName" : "NBXH",
+  "cargo" : "container",
+  "amount" : 2121,
+  "anchorageTime" : 424
+}{
+  "day" : 28,
+  "arrivalTime" : 366,
+  "shipName" : "LXKU",
+  "cargo" : "container",
+  "amount" : 4954,
+  "anchorageTime" : 990
+}{
+  "day" : 28,
+  "arrivalTime" : 386,
+  "shipName" : "KKRKRBHC",
+  "cargo" : "liquid",
+  "amount" : 2861,
+  "anchorageTime" : 408
+}{
+  "day" : 28,
+  "arrivalTime" : 622,
+  "shipName" : "VHGM",
+  "cargo" : "dry",
+  "amount" : 9910,
+  "anchorageTime" : 1415
+}{
+  "day" : 28,
+  "arrivalTime" : 795,
+  "shipName" : "LVNE",
+  "cargo" : "liquid",
+  "amount" : 1062,
+  "anchorageTime" : 151
+}{
+  "day" : 28,
+  "arrivalTime" : 1208,
+  "shipName" : "KPXDDOZG",
+  "cargo" : "dry",
+  "amount" : 9489,
+  "anchorageTime" : 1355
+}{
+  "day" : 29,
+  "arrivalTime" : 39,
+  "shipName" : "MZLPTYYMJ",
+  "cargo" : "dry",
+  "amount" : 1050,
+  "anchorageTime" : 150
+}{
+  "day" : 29,
+  "arrivalTime" : 260,
+  "shipName" : "IQWOKP",
+  "cargo" : "liquid",
+  "amount" : 363,
+  "anchorageTime" : 51
+}{
+  "day" : 29,
+  "arrivalTime" : 300,
+  "shipName" : "IBDYUK",
+  "cargo" : "liquid",
+  "amount" : 5117,
+  "anchorageTime" : 731
+}{
+  "day" : 29,
+  "arrivalTime" : 607,
+  "shipName" : "SYT",
+  "cargo" : "dry",
+  "amount" : 9149,
+  "anchorageTime" : 1307
+}{
+  "day" : 29,
+  "arrivalTime" : 668,
+  "shipName" : "FER",
+  "cargo" : "container",
+  "amount" : 144,
+  "anchorageTime" : 28
+}{
+  "day" : 29,
+  "arrivalTime" : 677,
+  "shipName" : "PAAN",
+  "cargo" : "container",
+  "amount" : 1399,
+  "anchorageTime" : 279
+}{
+  "day" : 29,
+  "arrivalTime" : 804,
+  "shipName" : "UGAPYNUD",
+  "cargo" : "liquid",
+  "amount" : 4482,
+  "anchorageTime" : 640
+}{
+  "day" : 29,
+  "arrivalTime" : 812,
+  "shipName" : "PJCHZN",
+  "cargo" : "dry",
+  "amount" : 3483,
+  "anchorageTime" : 497
+}{
+  "day" : 29,
+  "arrivalTime" : 1028,
+  "shipName" : "HUTH",
+  "cargo" : "dry",
+  "amount" : 3445,
+  "anchorageTime" : 492
+}{
+  "day" : 29,
+  "arrivalTime" : 1302,
+  "shipName" : "KKFWW",
+  "cargo" : "dry",
+  "amount" : 566,
+  "anchorageTime" : 80
+}{
+  "day" : 29,
+  "arrivalTime" : 1355,
+  "shipName" : "GLKU",
+  "cargo" : "dry",
+  "amount" : 5822,
+  "anchorageTime" : 831
+}{
+  "day" : 29,
+  "arrivalTime" : 1408,
+  "shipName" : "AJKERNC",
+  "cargo" : "liquid",
+  "amount" : 6602,
+  "anchorageTime" : 943
+}{
+  "day" : 29,
+  "arrivalTime" : 1411,
+  "shipName" : "FYRJDZ",
+  "cargo" : "liquid",
+  "amount" : 3331,
+  "anchorageTime" : 475
+}{
+  "day" : 1,
+  "arrivalTime" : 1000,
+  "shipName" : "TITANIC",
+  "cargo" : "dry",
+  "amount" : 100,
+  "anchorageTime" : 14
+}
